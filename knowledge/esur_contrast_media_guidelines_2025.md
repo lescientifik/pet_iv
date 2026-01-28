@@ -65,7 +65,28 @@
 | **IV** ou IA second passage | eGFR **< 30** mL/min/1.73 m² |
 | **IA premier passage rénal** | eGFR **< 45** mL/min/1.73 m² |
 
-### Timing Bilan Rénal
+### ⭐ QUAND Mesurer l'eGFR ? (Indications ESUR)
+
+**Deux approches possibles:**
+
+**Option A - Mesure systématique:**
+- Mesurer l'eGFR chez TOUS les patients avant injection de contraste iodé
+
+**Option B - Mesure ciblée (patients à risque):**
+
+Mesurer l'eGFR uniquement si **antécédent de:**
+| Facteur de risque | Commentaire |
+|-------------------|-------------|
+| **Maladie rénale** | eGFR < 60 mL/min/1.73 m² connu (sauf dialysés) |
+| **Chirurgie rénale** | Néphrectomie, transplantation, etc. |
+| **Protéinurie** | Connue ou suspectée |
+| **HTA** | Traitée ou non |
+| **Hyperuricémie** | Goutte, etc. |
+| **Diabète** | Type 1 ou 2 |
+
+> 💡 **En pratique pour TEP CT FDG gynéco:** L'option B (ciblée) est raisonnable pour des patientes ambulatoires stables. Poser la question des antécédents à la prise de RDV.
+
+### Timing Bilan Rénal (si indiqué)
 
 | Population | Délai créatinine/eGFR |
 |------------|----------------------|
@@ -131,10 +152,10 @@ Pour injection IA avec premier passage rénal, maintenir:
 
 ### Prévention
 
-- Cathéter adapté (taille veine + débit)
-- Test au sérum physiologique
-- Réchauffement du contraste
-- Surveillance pendant injection
+- Cathéter adapté (taille veine + débit anticipé)
+- **Test au sérum physiologique:** Injecter 10-20 mL de NaCl 0.9% AVANT le contraste pour vérifier le bon positionnement du cathéter et l'absence de fuite/extravasation
+- **Réchauffement du contraste:** Stocker le flacon dans un chauffe-flacon à 37°C avant injection (réduit la viscosité, améliore le flux, diminue le risque d'extravasation)
+- Surveillance visuelle du point de ponction pendant toute l'injection
 
 ### Prise en Charge
 
@@ -150,10 +171,12 @@ Pour injection IA avec premier passage rénal, maintenir:
 
 ### Grossesse
 
-| Agent | Recommandation |
-|-------|----------------|
-| **Iodé** | Si examen essentiel → contrôle TSH néonatal |
+| Agent | Recommandation ESUR |
+|-------|---------------------|
+| **Iodé** | Si examen essentiel → contrôle TSH néonatal dans la 1ère semaine |
 | **Gadolinium** | Si indication forte → dose minimale macrocyclique |
+
+> 📋 **Pratique locale:** Le dépistage néonatal de la fonction thyroïdienne est systématique et universel en France (test de Guthrie). Pas de contrôle supplémentaire spécifique à organiser.
 
 ### Allaitement
 
@@ -220,26 +243,40 @@ Pour injection IA avec premier passage rénal, maintenir:
 
 ### Check-list pré-injection pour TEP CT FDG
 
-1. **Allergie connue au contraste?**
-   - Si réaction sévère → discuter alternative ou prémédication avec allergologue
+#### Étape 1 : Screening à la prise de RDV
 
-2. **Créatinine/eGFR récent?**
-   - Ambulatoire stable: ≤3 mois
-   - Hospitalisé/instable: ≤7 jours
+**Questions à poser pour savoir si bilan rénal nécessaire:**
+- [ ] Maladie rénale connue ?
+- [ ] Chirurgie rénale / rein unique / greffe ?
+- [ ] Protéinurie connue ?
+- [ ] HTA traitée ?
+- [ ] Diabète ?
+- [ ] Goutte / hyperuricémie ?
 
-3. **eGFR >30?**
-   - Oui → injection possible, continuer metformine
-   - Non → hydratation préventive + stop metformine
+→ **Si OUI à au moins 1 question:** demander créatinine/eGFR
 
-4. **Grossesse/allaitement?**
-   - Grossesse: uniquement si indispensable
-   - Allaitement: pas de contre-indication
+#### Étape 2 : Contre-indications absolues
 
-5. **Hyperthyroïdie non contrôlée?**
-   - Contre-indication absolue
+1. **Allergie sévère connue au contraste iodé** (choc anaphylactique)
+   - → Discuter alternative ou prémédication avec allergologue
 
-6. **Équipement urgence disponible?**
-   - Adrénaline, O2, antihistaminiques, voie veineuse
+2. **Hyperthyroïdie manifeste non contrôlée**
+   - → Reporter l'examen, avis endocrinologique
+
+#### Étape 3 : Vérifications le jour J
+
+3. **Si bilan rénal demandé → eGFR >30 ?**
+   - Oui → OK pour injection, continuer metformine
+   - Non → hydratation préventive + STOP metformine + discussion bénéfice/risque
+
+4. **Grossesse ?**
+   - → Uniquement si indispensable (pas de contrôle TSH spécifique à prévoir)
+
+5. **Allaitement ?**
+   - → Pas de contre-indication, poursuite normale
+
+6. **Équipement urgence en salle ?**
+   - Adrénaline 1mg/mL, O2, antihistaminiques, voie veineuse fonctionnelle
 
 ### Protocole type gynécologie oncologique
 
