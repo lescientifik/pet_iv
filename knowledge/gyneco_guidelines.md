@@ -31,7 +31,6 @@
 
 ### Points spécifiques gynécologie
 
-- **Vessie partiellement remplie** au moment de l'acquisition (compromis entre interprétation PET et repérage anatomique)
 - **Éviter l'activité musculaire** pelvienne (relaxation)
 - **Période menstruelle** : documenter (activité endométriale physiologique variable selon le cycle)
 
@@ -69,7 +68,7 @@
 
 ```
 T-10 min  : Pose sonde Foley, drainage par gravité
-T0        : Injection FDG (dose standard, ~3 MBq/kg)
+T0        : Injection FDG
 T0-T5     : Injection furosémide 20-40 mg IV (0.5 mg/kg)
 T0-T60    : Perfusion NaCl 0.9% ~1 L
             Repos en salle d'attente (position allongée ou assise)
@@ -82,19 +81,30 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 - Amélioration de la détection des lésions pelviennes adjacentes à la vessie
 - Meilleure définition des volumes cibles pour radiothérapie
 
-#### Contre-indications relatives
+#### Contre-indications
 
-- Allergie aux sulfamides (furosémide)
-- Insuffisance rénale sévère
-- Déshydratation
+**Absolues:**
+- **Anurie** (absence de diurèse)
+- **Obstruction urinaire** (si l'écoulement urinaire ne peut être assuré)
+- Allergie aux sulfamides / hypersensibilité au furosémide
+- Hypovolémie / déshydratation sévère
+
+**Relatives:**
+- Insuffisance rénale sévère (dose à adapter, risque d'ototoxicité)
+- Hypokaliémie non corrigée
 - Impossibilité de sondage urinaire
+
+> **Source:** [FDA Label Lasix](https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/016273s068lbl.pdf) - "LASIX is contraindicated in patients with anuria"; "Urinary outflow must be secured"
 
 ### 2.3 Protocole "patient-friendly" (alternative sans sonde)
 
-#### Référence: PMID 25345433 (Tsai et al.)
+> **Attention:** Ce protocole est issu d'une étude sur les **cancers de vessie** (PMID 25345433, Tsai et al.), non spécifiquement les cancers gynécologiques. Son applicabilité à la gynécologie oncologique n'a pas été formellement validée.
+
+#### Référence: PMID 25345433 (Tsai et al.) - Étude prospective cancer vésical
 
 | Élément | Description |
 |---------|-------------|
+| **Population étudiée** | 23 patients avec cancer de vessie confirmé histologiquement |
 | **Principe** | Hydratation orale modérée + diurétique tardif + acquisition retardée |
 | **Hydratation** | Quantité **tolérée** par le patient (non forcée) |
 | **Diurétique** | Dose **faible**, administration **retardée** |
@@ -104,7 +114,7 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 **Résultat:** 100% des cancers vésicaux primaires visualisés dans l'étude
 
 **Avantage:** Meilleure tolérance patient, pas de sonde urinaire
-**Limite:** Moins efficace que le protocole avec sonde pour l'élimination complète
+**Limite:** Moins efficace que le protocole avec sonde pour l'élimination complète ; validé uniquement pour cancer vésical
 
 ### 2.4 Autres techniques
 
@@ -114,11 +124,15 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 - Permet drainage naturel de la vessie
 - Utile si contre-indication au furosémide
 
-#### Double acquisition
+#### Acquisition multi-phases (pour radiothérapie - ITV)
 
-- Acquisition standard à 60 min
-- Seconde acquisition pelvienne après miction (ou à 90-120 min)
-- Permet comparaison et améliore la confiance diagnostique
+> **Contexte:** Cette technique est décrite dans la guideline EANM/SNMMI col utérin (PMID 33275178) spécifiquement pour le **planning de radiothérapie**, pas pour le staging diagnostique.
+
+- Acquisitions avec différents états de remplissage vésical
+- Objectif : déterminer le mouvement interne des volumes cibles
+- Génère un **ITV (Internal Target Volume)** avec marges individualisées
+
+> **Citation PMID 33275178:** "Full and empty bladder scans at the time of treatment planning provide information about the range of internal motion of the target volumes [...] generate an internal target volume (ITV) with individualized margins."
 
 #### Irrigation vésicale rétrograde
 
@@ -202,36 +216,50 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 
 | Aspect | Recommandation |
 |--------|----------------|
-| **Furosémide** | **Fortement recommandé** pour RT planning |
+| **Furosémide** | Recommandé pour améliorer visualisation pelvienne |
 | **Sonde urinaire** | Oui, avant injection FDG |
 | **Contraste IV** | Recommandé (visualisation ganglionnaire) |
-| **Acquisition multiple** | Envisager pour définition ITV (Internal Target Volume) |
-| **Particularité** | Vessie partiellement remplie pour repérage, mais pas trop (masquage) |
+| **Vessie** | **Vide** pour le staging (voir citation ci-dessous) |
+
+> **Citation PMID 33275178:** "Therefore, acquisition should be performed with an **empty bladder**. Patients should void just prior to the [18F]FDG PET/CT [71]. In most cases, this is sufficient to ensure that proper interpretation of the scan and extra intervention is not necessary."
+
+#### Cas particulier : Planning radiothérapie
+
+Pour le planning RT, la gestion vésicale diffère :
+- **Vessie confortablement remplie** pendant le traitement (reproductibilité)
+- **Protocoles de boisson** pour atteindre ce remplissage reproductible
+- **Acquisition multi-phases** (vessie pleine/vide) pour générer l'ITV avec marges individualisées
 
 ### Ovaire (PMID 34215923)
 
 | Aspect | Recommandation |
 |--------|----------------|
 | **Rôle TEP** | Staging, détection récidive, pronostic |
-| **Contraste IV** | Utile pour différentiation kystes vs masses |
-| **Furosémide** | Non spécifiquement recommandé dans la guideline |
-| **Particularité** | Carcinose péritonéale : contraste oral utile |
+| **Contraste IV** | Recommandé (aide à la différentiation kystes vs masses, visualisation carcinose péritonéale) |
+| **Furosémide** | Non spécifiquement mentionné dans la guideline |
+| **Protocole spécifique** | Non détaillé dans la guideline (focus sur indications cliniques) |
+
+> **Note:** La guideline EANM ovaire (PMID 34215923) se concentre sur les indications cliniques et le niveau de preuve, sans détailler de protocole d'acquisition spécifique.
 
 ### Endomètre
 
+> **Pas de guideline EANM spécifique disponible.** Les recommandations ci-dessous sont extrapolées des principes généraux (EANM v3.0) et de la littérature sur les pièges diagnostiques (PMID 28287942).
+
 | Aspect | Recommandation |
 |--------|----------------|
-| **Uptake physiologique** | Variable selon phase du cycle menstruel |
-| **Contraste IV** | Utile pour évaluation de l'extension myométriale |
+| **Uptake physiologique** | Variable selon phase du cycle menstruel (PMID 28287942) |
+| **Contraste IV** | Peut aider à l'évaluation de l'extension myométriale |
 | **Furosémide** | À discuter si lésion proche vessie |
 
 ### Vulve/Vagin
 
+> **Pas de guideline EANM spécifique disponible.** Les recommandations ci-dessous sont des principes généraux.
+
 | Aspect | Recommandation |
 |--------|----------------|
 | **Positionnement** | Attention au positionnement des membres inférieurs |
-| **Contraste IV** | Utile pour ganglions inguinaux et pelviens |
-| **Furosémide** | Moins critique (lésions plus distales) |
+| **Contraste IV** | Peut aider à la visualisation des ganglions inguinaux et pelviens |
+| **Furosémide** | Moins critique (lésions plus distales de la vessie) |
 
 ---
 
@@ -276,7 +304,7 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 | **J0 - Arrivée** | Vérification jeûne 6h, glycémie | - |
 | **T-20 min** | Pose VVP, hydratation IV débutée | - |
 | **T-10 min** | *Si protocole furosémide:* pose sonde Foley | - |
-| **T0** | Injection FDG (3 MBq/kg) | 0 |
+| **T0** | Injection FDG | 0 |
 | **T0-5 min** | *Si protocole furosémide:* injection 20-40 mg IV | +5 min |
 | **T0-60 min** | Repos, perfusion ~1 L NaCl 0.9% | 60 min |
 | **T60** | Miction (si pas de sonde), acquisition | +60 min |
