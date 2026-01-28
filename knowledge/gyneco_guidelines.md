@@ -90,10 +90,9 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 
 **Précautions majeures (évaluation au cas par cas):**
 - **Obstruction urinaire basse** (HBP, sténose urétrale) : risque de rétention aiguë → *dans le protocole avec sonde Foley, ce risque est levé*
-- **Obstruction urétérale** :
-  - *Unilatérale* : utilisable avec prudence (rein controlatéral fonctionnel)
-  - *Bilatérale* : contre-indication relative (risque d'aggravation hydronéphrose bilatérale et IRA)
+- **Obstruction urétérale** : précaution, le furosémide peut aggraver une hydronéphrose
   - ⚠️ **Contexte gynéco** : une compression urétérale tumorale (cancer col avancé) peut exister → vérifier imagerie récente
+  - *Note : les RCP ne distinguent pas obstruction uni/bilatérale, mais une obstruction bilatérale avec anurie est une CI absolue*
 - Insuffisance rénale sévère (dose à adapter, risque d'ototoxicité)
 - Hypokaliémie non corrigée
 
