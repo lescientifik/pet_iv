@@ -19,8 +19,22 @@ Mise en place de l'injection de produit de contraste iodé (PCI) sur les examens
 
 ## Structure du projet
 
-_À compléter au fur et à mesure du développement_
+```
+pet_iv/
+├── CLAUDE.md          # Documentation projet (ce fichier)
+├── STATE.md           # Suivi des sessions de travail
+└── knowledge/         # Découvertes et synthèses de la littérature
+    └── *.md           # Documents de recherche
+```
 
-## Notes
+## Outils
 
-_Espace pour les notes et observations au fil du projet_
+- **pm-tools** : https://github.com/lescientifik/pm-tools
+  - Outil pour effectuer les recherches PubMed
+  - Utilisé pour la veille bibliographique
+
+## Workflow
+
+1. Recherche PubMed via pm-tools
+2. Synthèse des découvertes dans `knowledge/`
+3. Mise à jour de STATE.md à chaque session
