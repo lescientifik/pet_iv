@@ -1,417 +1,2137 @@
-# ESUR Contrast Media Safety Committee Guidelines 2025
+ESUR                             Contrast Media Safety Committee Guidelines 2025
 
-**European Society of Urogenital Radiology**
-**Version: 2025 (November)**
 
-## Préface
 
-Le Contrast Media Safety Committee, fondé en 1994, présente les Guidelines 2025 sur les agents de contraste. Ces guidelines sont désormais publiées sous forme électronique sur le site ESUR et mises à jour annuellement.
 
-**Contact**: esursecretary@esur.org
+Contrast Media Safety Committee Guidelines 2025
 
----
 
-## Terminologie
+Preface
+The Contrast Media Safety Committee, which was founded in 1994, is proud to present the
+Contrast Agent Guidelines 2025. Over the years, more than 200,000 copies of the booklet
+have been printed, and it has been translated into many languages. Although most contrast
+agents in current use have been on the market for many years, minor changes occur in their
+adverse reaction pattern and new observations are reported.
 
-- **Agent de contraste (Contrast agent)**: Substance qui modifie le contraste dans les images produites par toute méthode (rayons X, IRM, échographie)
-- **Produit de contraste (Contrast medium)**: Terme réservé aux composés pour rayons X (iodés, baryum, air, CO2)
+From now on, the guidelines will also be published in electronic form on the ESUR webpage
+and updated annually. Consequently, following Version 10, the 2025 version of the guidelines
+is now released. The guidelines should be understood as a permanent work in progress,
+continuously evolving over time.
 
----
+The 2025 version of the guidelines includes, among others, updated sections on contrast
+agent hypersensitivity and extravasation as well as recommended waiting times between
+successive contrast agent administrations, analytical interference of contrast agents with
+lab tests and safe use of contrast agents for hysterosalpingography and in patients with
+myasthenia gravis.
+
+We hope this new version remains helpful in your practice and that it will benefit all our patients.
+Comments and questions are welcome at esursecretary@esur.org
+
+Contrast Media Safety Committee
+November 2025
+
+Olivier Clément, Chair
+Laura Romanini, Vice Chair
+Aart van der Molen, Secretary
+Katerina Deike, Coordinating Author Guidelines 2025
+
+
+Note:
+CMSC guidelines are based on evidence in the literature whenever possible. Where there is insufficient
+published evidence, recommendations are based on clinical consensus within the Committee.
 
-## Réactions d'Hypersensibilité aux Agents de Contraste (Adultes)
+These guidelines summarize the key recommendations. For a complete understanding of the respective
+topic, readers are encouraged to consult the original ESUR CMSC guideline publication(s).
 
-### Définitions temporelles
+Some CMSC guidelines may differ from the Summary of Product Characteristics (SPC, label), and/or
+guidelines drawn up by national and other radiological bodies.
 
-- **Réaction immédiate**: Survient dans l'heure suivant l'administration (rarement jusqu'à 6h)
-- **Réaction non-immédiate**: Survient entre 1h et 1 semaine (rarement jusqu'à 8 semaines) après l'administration
+Legal notice:
+The Committee and authors of the contrast agent guidelines 2025 claim no responsibility for the
+content of the translated versions of the guidelines.
 
-### Classification des réactions immédiates
 
-| Symptômes cliniques | Classification ACR | Classification Ring & Messmer |
-|---------------------|-------------------|------------------------------|
-| Congestion nasale, éternuements, urticaire limitée | Légère | Grade 1 |
-| Urticaire diffuse, érythème diffus sans hypotension, œdème facial sans dyspnée | Modérée | Grade 1-2 |
-| Œdème avec dyspnée, hypotension, bronchospasme sévère, choc anaphylactique | Sévère | Grade 2-4 |
-| Arrêt cardio-pulmonaire | Sévère | Grade 4 |
 
-### Prise en charge des réactions immédiates
 
-#### Avant l'examen
-- Chariot de réanimation régulièrement vérifié
-- Numéros d'urgence dans la salle d'examen
-- Équipement de prélèvement pour tryptase disponible
+                                                  3
+ESUR                                               Contrast Media Safety Committee Guidelines 2025
 
-**Équipements et médicaments de première ligne:**
-- Oxygène
-- Solutés IV: NaCl 0.9% ou Ringer Lactate (minimum 2L)
-- Tensiomètre
-- Masque à valve unidirectionnelle
-- Adrénaline 1 mg/mL (1:1000)
-- Antihistaminique H1 injectable
-- Atropine
-- β2-agoniste à courte durée d'action (salbutamol)
-- Anticonvulsivants
 
-#### Prise en charge aiguë - Principes généraux
-1. Vérifier et stabiliser selon la méthode ABCDE
-2. Arrêter l'injection de contraste et remplacer par cristalloïde
-3. Dyspnée/stridor: position assise
-4. Hypotension: position allongée, jambes surélevées
-5. Mesurer la tryptase sérique dans les 4h après le début de la réaction
-6. Documenter la réaction dans le dossier médical
 
-#### Réactions sévères (anaphylaxie)
 
-**Arrêt cardiaque ou respiratoire:**
-- Appeler l'équipe de réanimation
-- Débuter la RCP
+Contents
 
-**Réaction anaphylactique ou stridor:**
-- Appeler l'équipe d'urgence
-- Oxygène 10-15 L/min avec masque haute concentration
-- Adrénaline 0.5 mg IM dans la face latérale de la cuisse, répéter si nécessaire
-- Bolus de cristalloïde 500 mL IV en 10 minutes
-- β2-agoniste: 2-10 inhalations de salbutamol 100 µg
-- Chlorphéniramine 20 mg ou clémastine 2 mg IV
-- Envisager corticoïde (prednisolone 50 mg IV ou équivalent)
+Terminology: Contrast agents and contrast media......................................................................6
+Hypersensitivity reactions to contrast agents (in adults)............................................................6
+  Categories of immediate hypersensitivity reactions..............................................................................6
+  Management of hypersensitivity reactions............................................................................................7
+  Prevention of recurrent hypersensitivity reactions................................................................................11
+Prevention of contrast-associated acute kidney injury (CA-AKI) when administering
+iodine-based contrast media.........................................................................................................15
+  Definitions..................................................................................................................................................15
+  Measurement of renal function...............................................................................................................15
+  At the time of referral................................................................................................................................16
+  Before the Examination............................................................................................................................17
+  At the time of the examination.................................................................................................................18
+  After the Examination...............................................................................................................................18
+  Prevention of CA-AKI in multiple myeloma patients..............................................................................18
+Renal adverse reactions to gadolinium-based contrast agents.................................................19
+Safe use of contrast agent administration in patients on dialysis..............................................19
+  Patients on haemodialysis.......................................................................................................................19
+  Patients on continuous ambulatory peritoneal dialysis.........................................................................19
+Management and prevention of contrast agent extravasation...................................................20
+Safe time intervals between contrast agent injections...............................................................21
+  Successive iodine- and gadolinium-based contrast agent administration for routine
+  examinations.............................................................................................................................................21
+  Waiting times between two iodine-based contrast medium injections for routine
+  examinations.............................................................................................................................................22
+  Waiting times between two gadolinium-based contrast agent injections for routine
+  examinations.............................................................................................................................................22
+Analytical interference of intravascular contrast agents with clinical laboratory tests............. 23
+  Recommended delay in blood collection after administration of contrast agents:.............................23
+  Recommended delay in urine collection after administration of contrast agents:..............................23
+  Risk classification of gadolinium-based contrast agents and recommendations...............................25
+Safe use of contrast agents in pregnancy and lactation.............................................................26
+  Pregnancy.................................................................................................................................................26
+  Lactation....................................................................................................................................................26
+  Pregnant or lactating mother with renal impairment..............................................................................27
+Safe use of contrast agents in paediatric patients......................................................................27
 
-**Équivalences corticoïdes:**
-- Prednisolone 50 mg IV = Méthylprednisolone 40 mg = Dexaméthasone 8 mg = Hydrocortisone 200 mg
 
-#### Réactions modérées
+                                                                               4
+ESUR                                               Contrast Media Safety Committee Guidelines 2025
 
-**Bronchospasme léger:**
-- β2-agoniste: 2-4 inhalations de salbutamol 100 µg
-- Si détérioration: adrénaline 0.5 mg IM
 
-**Œdème facial sans stridor:**
-- Oxygène 10-15 L/min
-- Chlorphéniramine 20 mg ou clémastine 2 mg IV
 
-**Urticaire diffuse/érythème diffus:**
-- Chlorphéniramine 20 mg ou clémastine 2 mg IV
-- Si hypotension associée: traiter comme anaphylaxie
+Safe use of contrast agents in patients with systemic diseases................................................27
+   Safe use of contrast agents in patients with diabetes mellitus taking metformin...............................27
+   Prevention of iodine-induced hyperthyroidism......................................................................................28
+   Safe use of contrast agents in patients with pheochromocytoma - paraganglioma (PPGL).............28
+   Safe use of contrast agents in patients with myasthenia gravis...........................................................29
+Gadolinium retention in the brain and body.................................................................................29
+   Gadolinium retention in the brain............................................................................................................29
+   Gadolinium retention in bone, liver and skin..........................................................................................30
+Safety of ultrasound contrast agents............................................................................................30
+Miscellaneous recommendations and topics..............................................................................31
+   Safety of CO2 as an alternative to iodine-based contrast media in vascular procedures.................31
+   Safe use of contrast agents in hysterosalpingography (HSG)..............................................................31
+   Fasting before administration of contrast agents...................................................................................31
+   Warming of iodine-based contrast medium before administration......................................................31
+   Off-label use of contrast agents..............................................................................................................32
+   Safety of barium contrast media.............................................................................................................32
+   Pulmonary effects of iodine-based contrast media..............................................................................32
+   Gadolinium contamination of the environment......................................................................................33
+The following guidelines are currently being updated................................................................33
+Questionnaires and Letters............................................................................................................34
+   Example of a suitable letter for the patient to take to the allergy consultation....................................34
+   Questionnaire for iodine-based contrast media administration to be completed by the
+   referring clinician......................................................................................................................................36
+   Questionnaire for gadolinium-based contrast agent administration to be completed by the
+   referring clinician......................................................................................................................................39
+Appendices.....................................................................................................................................41
+   Appendix 1. Publications from the ESUR Contrast Media Safety Committee......................................41
+   Appendix 2. Contrast Media Safety Committee, 2025..........................................................................45
+
+
+
+
+                                                                              5
+ESUR                              Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Terminology: Contrast agents and contrast media
+A contrast agent is a substance which alters the contrast in images produced by any
+method. It is a general term which can be used for X-ray, MR and ultrasound contrast
+compounds.
 
-#### Réactions légères
-- Souvent seule la réassurance suffit
-- Surveiller les signes vitaux
-- Maintenir l'accès IV
-- Envisager antihistaminique non sédatif (desloratadine 5 mg PO ou cétirizine 10 mg PO)
+A contrast medium is a substance which alters the contrast in X-ray images by altering
+transmission of the X-ray beam. This term should be reserved for X-ray contrast
+compounds, e.g. iodine-based, barium, air and carbon dioxide.
 
-#### Après l'examen
-- Réaction légère: surveillance jusqu'à disparition des symptômes (minimum 30 min)
-- Réaction modérée non menaçante: observation 4-6 heures
-- Réaction menaçant le pronostic vital: hospitalisation et surveillance
 
-### Prévention des réactions récurrentes
+Hypersensitivity reactions to contrast agents (in adults)
+An immediate hypersensitivity reaction occurs within 1h of contrast agent administration
+(rarely up to 6h), while a non-immediate hypersensitivity reaction occurs between 1h and 1
+week (rarely up to 8 weeks) after administration.
 
-#### Tests in vitro
-- Tryptase sérique dans les 4h pour réactions modérées à sévères
-- Seconde mesure ≥24h après comme baseline
+Categories of immediate hypersensitivity reactions
 
-#### Consultation allergologique recommandée pour:
-- Réactions modérées et sévères
-- Réactions à plusieurs agents de contraste
-- Réactions récurrentes de toute sévérité
+For classification of immediate hypersensitivity reactions, the CMSC endorses both the
+Radiological classification of the American College of Radiology (ACR) and the Allergological
+classification of Ring and Messmer.
 
-#### Protocole de prémédication d'urgence (si allergie sévère connue)
-- Prednisolone 50 mg IV ≥30 min avant injection
-- Clémastine 2 mg IV ≥30 min avant injection
+ Clinical symptoms of the                                ACR             Ring & Messmer
+ hypersensitivity reaction                           Classification       Classification
 
----
+ Nasal congestion                                                             Grade 1
+ Sneezing, conjunctivitis, rhinorrhoea                                        Grade 1
+ Limited/scattered urticaria & pruritus                   Mild                Grade 1
+ Cutaneous oedema                                                             Grade 1
+ Limited itchy/scratchy throat                                                Grade 1
 
-## Prévention de l'Insuffisance Rénale Aiguë Associée au Contraste (CA-AKI)
+ Diffuse urticaria & pruritus                                                Grade 1
+ Diffuse erythema, no hypotension                                            Grade 1
+ Facial oedema, no dyspnoea                            Moderate              Grade 1
+ Throat hoarseness, no dyspnoea                                              Grade 2
+ Mild bronchospasm, no hypoxia                                               Grade 2
 
-### Définitions
+ Diffuse/facial oedema, with dyspnoea                                        Grade 2
+ Diffuse erythema, with hypotension                                          Grade 3
+ Laryngeal oedema, with hypoxia                                              Grade 3
+                                                        Severe
+ Severe bronchospasm, with hypoxia                                           Grade 3
+ Anaphylactic shock                                                          Grade 3
+ Cardiopulmonary arrest                                                      Grade 4
+
+
 
-**CA-AKI (Contrast-Associated Acute Kidney Injury):**
-- Augmentation de la créatinine sérique >0.3 mg/dL (>26.5 µmol/L) OU
-- Augmentation >1.5 fois la valeur de base
-- Dans les 48-72h après administration IV d'un agent de contraste
+
+                                                 6
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
 
-### Mesure de la fonction rénale
 
-**Formule CKD-EPI 2009 (adultes ≥18 ans):**
-- Formule recommandée pour calculer l'eGFR
 
-**Formule de Schwartz révisée (enfants):**
-- eGFR (ml/min/1.73 m²) = 36.5 x taille / créatinine sérique
 
-### Facteurs de risque
+Management of hypersensitivity reactions
+Immediate/acute hypersensitivity reactions in adults
 
-**Facteurs liés au patient:**
-- eGFR <45 ml/min/1.73 m² pour injection IA avec premier passage rénal ou patients en soins intensifs
-- eGFR <30 ml/min/1.73 m² pour injection IV ou IA avec second passage rénal
-- Insuffisance rénale aiguë connue ou suspectée
+What to do before the examination
 
-**Facteurs liés à la procédure:**
-- Doses élevées de contraste IA avec premier passage rénal
-- Injections multiples dans les 48-72h
+‫ ׇ‬Be prepared to treat acute adverse reactions: be knowledgeable about the risks and
+  potential reactions, and participate regularly in continuous medical education
+‫ ׇ‬Know your patient and evaluate the risk/ benefit ratio and consider imaging alternatives
+‫ ׇ‬If the patient has experienced a previous hypersensitivity reaction, identify the specific
+  agent that elicited the previous reaction, and if the injection is mandatory, choose an
+  alternative contrast agent.
+‫ ׇ‬Schedule the patient during daytime hours, when most personnel are present, preferably
+  in a hospital-based CT or MRI facility.
+‫ ׇ‬A regularly maintained resuscitation trolley should be available in the department
+‫ ׇ‬Emergency numbers for the hospital resuscitation team should be in the examination
+  room
+‫ ׇ‬Adhere to local protocols for accessibility of a resuscitation and emergency response
+  team.
+‫ ׇ‬Equipment for collecting blood for tryptase measurement should be readily available
+‫ ׇ‬The following first-line emergency equipment and medications should be available in the
+  examination room:
+       ‫ ׇ‬Oxygen
+       ‫ ׇ‬IV fluids: normal saline or Ringer lactate (stock at least 2L)
+       ‫ ׇ‬Sphygmomanometer
+       ‫ ׇ‬One-way mouth rebreather apparatus
+       ‫ ׇ‬Adrenaline 1 mg/mL (1:1,000)
+       ‫ ׇ‬H1-Antihistamine suitable for injection
+       ‫ ׇ‬Atropine
+       ‫ ׇ‬Short acting β2-agonist metered dose inhaler or nebuliser
+       ‫ ׇ‬Anti-convulsive drugs
 
-### Timing de la mesure de l'eGFR
+What to do during the examination
 
-**Examens programmés:**
-- Dans les 7 jours pour patients avec maladie aiguë ou hospitalisés
-- Dans les 3 mois pour tous les autres patients
+‫ ׇ‬Monitor the patient closely and judge for progression of the reaction.
+‫ ׇ‬Observe closely for mucosal oedema of the nose, mouth, throat, or larynx.
+‫ ׇ‬If there is an increased risk of an adverse reaction, a venous access should be kept in
+  place.
+‫ ׇ‬In case of symptoms, check heart rate, arterial blood pressure, and consciousness.
+‫ ׇ‬If marked bradycardia is present, consider treatment of a vasovagal reaction (atropine)
+‫ ׇ‬Be aware that a patient with impaired vision or hearing, neurological disease, psychiatric
+  illness, cognitive disorders or under CNS-active medications might have diminished
+  awareness of hypersensitivity symptoms.
 
-### Hydratation préventive
 
-**Pour injection IV ou IA avec second passage rénal:**
-- Option a: Bicarbonate de sodium 1.4%: 3 mL/kg/h pendant 1h avant le contraste
-- Option b: NaCl 0.9%: 1 mL/kg/h pendant 3-4h avant et 4-6h après
+
+
+                                              7
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
 
-**Pour injection IA avec premier passage rénal:**
-- Option a: Bicarbonate de sodium 1.4%: 3 mL/kg/h 1h avant puis 1 mL/kg/h 4-6h après
-- Option b: NaCl 0.9%: 3-4h avant et 4-6h après
 
-### Recommandations générales
-- Utiliser des produits de contraste iso- ou hypo-osmolaires
-- Utiliser la dose minimale de contraste pour un résultat diagnostique
-- Pour IA avec premier passage rénal: maintenir ratio dose (g iode)/eGFR absolu <1.1
 
----
+Acute management:
 
-## Patients sous Dialyse
+General principles
 
-### Hémodialyse
+‫ׇ‬ Check and stabilise patient according to the ABCDE method.
+‫ׇ‬ Stop infusing contrast agent and replace IV line with crystalloid.
+‫ׇ‬ Dyspnoea or stridor: let patient sit up.
+‫ׇ‬ Hypotension: keep patient in prone position, raise legs.
+‫ׇ‬ Consider measuring serum tryptase as soon as practical, but certainly within 4h after
+  start of the reaction
+‫ ׇ‬Record acute allergic reactions and culprit contrast agent in the allergy registry of the
+  electronic health record of the patient
 
-**Contraste iodé:**
-- Pas besoin de coordonner l'injection avec la séance de dialyse
-- Séance supplémentaire non recommandée
+Note: After administration of a sedating H1-antihistamine the patient may no longer be able
+(or insured) to drive a car/motorcycle or to operate machinery.
 
-**Contraste gadoliné:**
-- Pas de dialyse immédiate nécessaire après agents macrocycliques
-- Dialyse indiquée après agents linéaires (ex: agents hépatospécifiques) et à répéter les 2 jours suivants
+Severe reactions (anaphylaxis)
 
-### Dialyse péritonéale continue
+Cardiac or respiratory arrest:
+‫ ׇ‬Call the CPR team.
+‫ ׇ‬Start CPR.
 
-**Contraste iodé:**
-- Hémodialyse supplémentaire non nécessaire
+Anaphylactic reaction or stridor:
+‫ ׇ‬Call rapid response team.
+‫ ׇ‬Give oxygen 10 to 15 L/min with non-rebreathing mask.
+‫ ׇ‬Give 0.5mg adrenaline IM in lateral upper thigh, repeat as necessary, guided by heart
+  rate.
+‫ ׇ‬Give fluid bolus of crystalloid 500 ml IV in 10 minutes, repeat as necessary.
+‫ ׇ‬Short acting β2-agonist: 2 - 10 inhalations of 100 µg of salbutamol via inhalation
+  [depending on severity], with option to repeat every 20 minutes, or via nebulization
+  (2.5-5 µg diluted in 3 mL of saline solution) up to 1 hour
+‫ ׇ‬Give chlorphenamine 20mg or clemastine 2 mg IV, repeat as necessary.
+‫ ׇ‬Consider adding corticosteroid (for example prednisolone 50 mg IV*)
 
-**Contraste gadoliné:**
-- Pas de dialyse immédiate après agents macrocycliques
+*Prednisolone 50 mg IV is equivalent to:
+‫ ׇ‬40 mg methylprednisolone
+‫ ׇ‬8 mg dexamethasone
+‫ ׇ‬200 mg hydrocortisone
 
----
+Note: Adding corticosteroids may be beneficial to prevent protracted or biphasic
+anaphylactic reactions if initial symptoms are severe.
 
-## Extravasation de Produit de Contraste
+Moderate reactions
 
-### Types de lésions
-- Mineures (majorité): gonflement, inconfort
-- Sévères: ulcération cutanée, nécrose tissulaire, syndrome des loges
+Consider transferring the patient to a department with facilities for monitoring of vital
+functions.
 
-### Facteurs de risque
+                                                8
+    Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
 
-**Liés à la technique:**
-- Sites d'injection sous-optimaux (membre inférieur, petites veines distales)
-- Grand volume de contraste
-- Contraste haute viscosité
 
-**Liés au patient:**
-- Incapacité à communiquer
-- Veines fragiles ou endommagées
-- Drainage lymphatique/veineux compromis
-- Obésité
 
-### Prévention
-- Technique d'insertion méticuleuse
-- Cathéter adapté à la veine et au débit
-- Test au sérum physiologique avant injection
-- Réchauffement du contraste iodé
-- Minimiser le volume administré
+Mild bronchospasm:
+‫ ׇ‬Short acting β2-agonist: 2 - 4 inhalations of 100 µg of salbutamol via inhalation
+   [depending on severity], with option to repeat every 20 minutes, or via nebulisation (2.5-
+   5 µg diluted in 3 mL of saline solution) until clinical improvement.
+‫ ׇ‬In case of deterioration give adrenaline 0.5 mg IM and consider consulting the rapid
+   response team.
+‫ ׇ‬When bronchospasm increases in severity, consider repeating adrenaline 0.5mg IM,
+   guided by heart rate.
 
-### Prise en charge
+Facial oedema without stridor:
+‫ ׇ‬Give oxygen 10 to 15 L/min via a non-rebreathing mask.
+‫ ׇ‬Give chlorphenamine 20 mg or clemastine 2 mg IV.
+‫ ׇ‬If oedema is severe, near airways, or if stridor develops treat as anaphylaxis.
 
-**Cas légers:**
-- Élévation du membre, poches de glace
-- Surveillance 2-4h, sortie si amélioration
+Diffuse urticaria/diffuse erythema:
+‫ ׇ‬Give chlorphenamine 20 mg or clemastine 2 mg IV.
+‫ ׇ‬If accompanied by hypotension: treat as anaphylaxis.
 
-**Cas modérés à sévères:**
-- Documentation radiographique
-- Avis chirurgical si lésion sévère suspectée ou extravasation >150 mL
+Mild reactions
 
----
+General:
+‫ ׇ‬Mild reactions may only need reassurance.
+‫ ׇ‬Observe vital signs until symptoms resolve.
+‫ ׇ‬Do not remove IV access during observation.
 
-## Intervalles de Temps entre Injections de Contraste
+Consider:
+‫ ׇ‬Prescribing a non-sedating antihistamine, for example desloratadine 5 mg PO or
+  cetirizine 10 mg PO (once daily) for mild allergic reactions.
+‫ ׇ‬Ondansetron 4mg IV for protracted vomiting.
 
-### Entre GBCA (IRM) et contraste iodé (TDM)
+What to do after the examination
 
-| Fonction rénale | Intervalle optimal | Intervalle minimal |
-|-----------------|-------------------|-------------------|
-| eGFR >60 | 6h | 2h |
-| eGFR 30-60 | 48h | 16h |
-| eGFR <30 | 7 jours (168h) | 2.5 jours (60h) |
+‫ ׇ‬If the patient has experienced a mild reaction, keep them under surveillance until every
+  symptom has disappeared (minimum 30 min, usually <60 min).
+‫ ׇ‬Patients experiencing a greater but non-life-threatening reaction should be observed for
+  4-6 hours after successful treatment before condisdering discharge.
+‫ ׇ‬Patients being discharged having had antihistamine medication should be advised not to
+  drive
+‫ ׇ‬Patients experiencing a life-threatening reaction should be admitted and observed.
+‫ ׇ‬Obtain serum tryptase within 4h of reaction onset (see Prevention of Recurrent
+  Reactions)
 
-### Entre deux injections de contraste iodé
 
-| Fonction rénale | Intervalle optimal | Intervalle minimal |
-|-----------------|-------------------|-------------------|
-| eGFR >60 | 12h | 4h |
-| eGFR 30-60 | 48h | 16h |
-| eGFR <30 | 7 jours (168h) | 2.5 jours (60h) |
-| Dialyse sans fonction résiduelle | Au moins 3 séances de dialyse | - |
 
-**En urgence:** pas de délai d'attente, examens consécutifs autorisés
 
----
+                                              9
+  Contents
+ESUR                             Contrast Media Safety Committee Guidelines 2025
 
-## Interférence avec les Tests de Laboratoire
 
-### Délais recommandés pour prélèvement sanguin
 
-| Fonction rénale | Délai minimum | Délai optimal |
-|-----------------|---------------|---------------|
-| eGFR >60 | 4h | 12h |
-| eGFR 30-60 | 16h | 48h |
-| eGFR <30 | 2.5 jours (60h) | 7 jours (168h) |
 
-### Délais recommandés pour prélèvement urinaire
+Non-immediate/delayed hypersensitivity reactions
 
-| Fonction rénale | Délai minimum |
-|-----------------|---------------|
-| eGFR >60 | 24h |
-| eGFR 30-60 | 48h |
-| eGFR <30 | 7 jours (168h) |
+Warn patients who have had a previous non-immediate hypersensitivity reaction to contrast
+agents, that a repeat non-immediate hypersensitivity reaction may be possible, usually a
+skin reaction.
 
----
+Patients should be informed to contact their general practitioner if they have a non-
+immediate hypersensitivity reaction after contrast media administration.
 
-## Prévention de la Fibrose Systémique Néphrogénique (NSF)
+Consider informing the radiology department where the contrast agent was administered
+about the occurrence and symptoms of a non-immediate hypersensitivity reaction after
+contrast agent administration.
 
-### Facteurs de risque
-- Fonction rénale réduite (surtout eGFR <15 ml/min/1.73 m²)
-- Patients sous dialyse
+When the symptoms of a non-immediate hypersensitivity reaction are mild, a wait-and-see
+approach can be justified.
 
-### Classification des agents gadolinés par risque de NSF
+Treat non-immediate hypersensitivity reactions symptomatically.
+Consider treatment of skin reactions with oral or topical corticosteroids.
 
-**Risque le plus élevé (suspendus/retirés en Europe):**
-- Gadodiamide (Omniscan®)
-- Gadopentétate diméglumine (Magnevist®)
-- Gadoversetamide (Optimark®)
+When severe cutaneous adverse reactions (SCAR) develop, such as generalised pustulosis
+or painful cutaneous blisters, refer the patient to a dermatologist for treatment and advice on
+future use of contrast.
 
-**Risque intermédiaire (approuvés uniquement pour imagerie hépatobiliaire):**
-- Gadobénate diméglumine (Multihance®)
-- Gadoxétate disodique (Primovist®, Eovist®)
+Documentation of hypersensitivity reactions
 
-**Risque le plus faible:**
-- Gadopiclenol (Elucirem®/Vueway®)
-- Gadobutrol (Gadovist®, Gadavist®)
-- Gadotérate méglumine (Dotarem®, Magnescope®)
-- Gadotéridol (Prohance®)
+The physician responsible for the administration of the contrast agent or the drug allergy specialist
+ensure that the allergy is accurately documented in the Electronic Health Record:
+‫ׇ‬ The location, date, and time of contrast agent administration
+‫ׇ‬ The specific contrast agent’s name and dose (volume, concentration)
+‫ׇ‬ The type (immediate or non-immediate) and severity category of the HSR
+‫ׇ‬ All available patient symptoms and vital signs (blood pressure, pulse, respiration rate,
+  oxygen saturation), time of first symptoms, and their evolution
+‫ ׇ‬The treatment given, and the response of the patient to the treatment
+‫ ׇ‬Any results of telephonic consultation with a drug allergy specialist
+‫ ׇ‬Any clinical follow-up and advice to see a drug allergy specialist
 
----
+If a HR to a contrast agent is serious or unexpected, the physician responsible for its
+administration or the drug allergy specialist should report all details of such a reaction to
+Marketing Authorization Holder and/or the National Pharmacovigilance Authority.
 
-## Grossesse et Allaitement
+Nonvascular administration of iodine-based contrast media
 
-### Grossesse
+When iodine-based contrast media are administered in the gastrointestinal tract, the
+genitourinary tract, the spinal canal, in joints, bile ducts, salivary ducts, fistulas, or
+abscesses, limited absorption or leakage of the iodine-based contrast media into
+the systemic circulation is possible, but hypersensitivity reactions are rare. For these
+hypersensitivity reactions, use the same management as for intravascular iodine-based
+contrast media administration.
 
-**Contraste iodé:**
-- Peut être administré dans des circonstances exceptionnelles si examen essentiel
-- Contrôler la fonction thyroïdienne du nouveau-né dans la première semaine
+                                                  10
+    Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
 
-**Contraste gadoliné:**
-- Si indication très forte: dose minimale d'agent macrocyclique
-- Pas de tests néonataux nécessaires
 
-### Allaitement
 
-**Contraste iodé:**
-- L'allaitement peut être poursuivi normalement
 
-**Contraste gadoliné (macrocycliques):**
-- L'allaitement peut être poursuivi normalement
+Prevention of recurrent hypersensitivity reactions
+In vitro tests
 
----
+Measure serum tryptase within 4 hours from the start of all moderate to severe immediate
+hypersensitivity reactions to contrast agents. A second measurement after ≥ 24 hours
+serves as a baseline for further allergologic examinations.
 
-## Populations Spéciales
+Reserve basophil activation tests for selected patients with moderate to severe acute
+hypersensitivity reactions as they are only available in specialized drug allergy centres.
 
-### Patients diabétiques sous metformine
+For non-immediate hypersensitivity reactions there are no meaningful in vitro diagnostic
+tests in clinical use.
 
-**eGFR >30 et injection IV ou IA second passage:**
-- Continuer la metformine normalement
 
-**eGFR <30 OU injection IA premier passage OU insuffisance rénale aiguë:**
-- Arrêter la metformine au moment de l'injection
-- Contrôler eGFR à 48h
-- Reprendre si fonction rénale stable
+Allergy assessment
 
-### Hyperthyroïdie induite par l'iode
+Refer the following patients to a drug allergy specialist for an allergy assessment:
+‫ ׇ‬Patients experiencing moderate and severe hypersensitivity reactions, and optionally
+   patients experiencing mild hypersensitivity reactions when the drug allergy specialist
+   capacity is sufficient
+‫ ׇ‬Patients experiencing hypersensitivity reactions to multiple iodine-based or gadolinium-
+   based contrast agents (either two or more different iodine-based contrast media
+   or gadolinium-based contrast agents or to an iodine-based contrast medium and a
+   gadolinium-based contrast agent).
+‫ ׇ‬Patients experiencing recurrent hypersensitivity reactions of any severity.
 
-**Patients à risque:**
-- Maladie de Basedow non traitée
-- Goitre multinodulaire avec autonomie thyroïdienne
+During the allergy assessment, test for the suspected culprit contrast agent and several
+commonly used alternatives, ideally within 6 months after the hypersensitivity reaction.
 
-**Recommandations:**
-- Ne pas administrer de contraste iodé si hyperthyroïdie manifeste
-- Dosage TSH si patient à risque suspecté
-- Surveillance endocrinologique après injection
+Always specify the used contrast agent in the referral to the drug allergy specialist.
 
-### Phéochromocytome/Paragangliome
+A detailed documentation about the culprit contrast agent and the severity of the reaction,
+including a grading scheme, is mandatory (see Management of Hypersensitivity Reactions).
 
-- Injection IV iodé ou gadoliné: pas de préparation spéciale
-- Injection IA iodé: blocage α- et β-adrénergique oral recommandé
 
-### Myasthénie
+Preventive measures
 
-- Les contraste iodés hypo/iso-osmolaires IV peuvent exacerber les symptômes dans les 24h
-- Risque d'exacerbation probablement <5%
-- Les agents gadolinés sont sûrs
+In all patients with a history of a hypersensitivity reaction to an iodine-based contrast
+medium or a gadolinium-based contrast agent, consider an alternative imaging modality, or
+consider performing an unenhanced exam if the diagnostic yield is sufficient for the correct
+management of the patient. Never deny a patient a clinically well-indicated enhanced
+examination if alternative imaging strategies are not available.
 
----
+Immediate hypersensitivity reactions (IHR)
 
-## Rétention du Gadolinium
+In patients with a history of a mild immediate hypersensitivity reaction to an iodine-based
 
-### Dans le cerveau
-- Visible comme hyperintensité T1 des noyaux gris profonds
-- Rapporté après tous les agents linéaires, mais pas après agents macrocycliques seuls
-- Signification clinique inconnue
-- Aucun symptôme neurologique confirmé
 
-### Dans l'os, le foie et la peau
-- Nécessite biopsie pour détection
-- Indépendant de la fonction rénale
-- Quantités plus importantes après agents linéaires non ioniques
+                                               11
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
 
----
 
-## Recommandations Diverses
 
-### Jeûne
-- NON recommandé avant administration de contraste hypo/iso-osmolaire non ionique
+contrast medium or a gadolinium-based contrast agent:
+‫ ׇ‬Interview the patient about their previous hypersensitivity reaction
+‫ ׇ‬Optionally, refer the patient to a drug allergy specialist (if not done before) when the
+   local drug allergy specialist capacity is sufficient
+‫ ׇ‬Optimize the allergy registration in the electronic health record
+‫ ׇ‬Apply the advice of the drug allergy specialist for a safe iodine-based contrast medium or
+   gadolinium-based contrast agent or, when not available, choose a different iodine-based
+   contrast medium or gadolinium-based contrast agent if the culprit contrast agent is
+   known*
+‫ ׇ‬When the contrast medium is administered: observe the patient at least 30min with IV
+   line in place
+‫ ׇ‬Be prepared and vigilant for a recurring immediate hypersensitivity reaction
+‫ ׇ‬If an immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+   mandatory
 
-### Réchauffement du contraste iodé
-- Améliore le confort patient
-- Réduit la viscosité et le risque d'extravasation
-- Considéré comme bonne pratique clinique
+In patients with a history of a moderate immediate hypersensitivity reaction to an iodine-
+based contrast medium or gadolinium-based contrast agent:
+ ‫ ׇ‬Refer the patient to a drug allergy specialist (if not done before)
+ ‫ ׇ‬Optimize the allergy registration in electronic health record
 
-### Utilisation hors AMM
-- Vérifier le RCP pour l'indication et la population
-- Si pas d'agent approuvé disponible: consentement éclairé pour usage hors AMM
+For elective contrast-enhanced examinations:
+‫ ׇ‬Postpone imaging to wait for the results of the allergy analysis
+‫ ׇ‬Apply the advice of the drug allergy specialist for a safe iodine-based contrast medium or
+    gadolinium-based contrast agent
+‫ ׇ‬When the contrast medium is administered: observe the patient at least 30min with IV
+    line in place
+‫ ׇ‬Be prepared and vigilant for a recurring immediate hypersensitivity reaction
+‫ ׇ‬If an immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+    mandatory
 
-### Effets pulmonaires du contraste iodé
+For emergency contrast-enhanced examinations:
+‫ ׇ‬Have a trained imaging or emergency room physician nearby
+‫ ׇ‬Choose a different iodine-based contrast medium or gadolinium-based contrast agent if
+    the culprit contrast medium is known*
+‫ ׇ‬When the contrast medium is administered: observe the patient at least 30 minutes with
+    IV line in place
+‫ ׇ‬Be prepared and vigilant for a recurring immediate hypersensitivity reaction
+‫ ׇ‬If an immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+    mandatory
+
+In patients with a history of a severe immediate hypersensitivity reaction to an iodine-based
+contrast medium or gadolinium-based contrast agent:
+ ‫ ׇ‬Refer the patient to a drug allergy specialist (if not done before)
+ ‫ ׇ‬Optimize the allergy registration in electronic health record
+For elective contrast-enhanced examinations:
+ ‫ ׇ‬Have a trained rapid response (or resuscitation) team member nearby
+ ‫ ׇ‬Postpone imaging to wait for the results of the allergy analysis
+
+                                              12
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+‫ ׇ‬Apply the advice of the drug allergy specialist for a safe iodine-based contrast medium or
+  gadolinium-based contrast agent
+‫ ׇ‬When the contrast medium is administered: observe the patient at least 30 minutes with
+  IV line in place
+‫ ׇ‬Be prepared and vigilant for a recurring immediate hypersensitivity reaction
+‫ ׇ‬If an immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+  mandatory
 
-**Effets indésirables:**
-- Bronchospasme
-- Augmentation de la résistance vasculaire pulmonaire
-- Œdème pulmonaire
+For emergency contrast-enhanced examinations:
+‫ ׇ‬Have a trained rapid response (or resuscitation) team member nearby
+‫ ׇ‬Consider administration of premedication (EAACI guidelines)
+‫ ׇ‬Choose a different iodine-based contrast medium or gadolinium-based contrast agent if
+    the culprit contrast medium is known*
+‫ ׇ‬When the contrast medium is administered: observe the patient at least 30 minutes with
+    IV line in place
+‫ ׇ‬Be prepared and vigilant for a recurring immediate hypersensitivity reaction
+‫ ׇ‬If an immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+    mandatory
 
-**Patients à haut risque:**
-- Antécédent d'asthme
-- Hypertension pulmonaire
-- Insuffisance cardiaque débutante
+Emergency premedication protocol:
+‫ ׇ‬50 mg prednisolone IV (or equivalent) – ≥ 30min before contrast administration
+‫ ׇ‬2mg clemastine IV (or equivalent) – ≥ 30min before contrast administration
 
-**Prévention:**
-- Utiliser contraste hypo/iso-osmolaire
-- Éviter les doses importantes
+Note: 50 mg prednisolone IV is equivalent to:
+‫ ׇ‬40 mg methylprednisolone IV
+‫ ׇ‬8 mg dexamethasone IV
+‫ ׇ‬200mg hydrocortisone IV
 
----
+Note: 2mg clemastine IV is equivalent to:
+‫ ׇ‬50 mg diphenhydramine IV
+‫ ׇ‬20 mg chlorphenamine IV
+‫ ׇ‬10 mg cetirizine IV
 
-## Références
+Non-immediate hypersensitivity reactions (NIHR)
 
-Source: ESUR Contrast Media Safety Committee Guidelines 2025
-- PDF: https://www.esur.org/wp-content/uploads/2025/12/Guidelines-2025-ESUR-vf-1.pdf
-- Site: https://www.esur.org/esur-guidelines-2025/
+In patients with a history of a mild non-immediate hypersensitivity reaction to an io-
+dine-based contrast medium or a gadolinium-based contrast agent without danger signs:
+ ‫ ׇ‬Interview the patient about their previous hypersensitivity reaction
+ ‫ ׇ‬Optionally, refer the patient to a drug allergy specialist (if not done before) when the local
+    drug allergy specialist capacity is sufficient
+ ‫ ׇ‬Optimize the allergy registration in the electronic health record
+ ‫ ׇ‬Apply the advice of the drug allergy specialist for a safe iodine-based contrast medium or
+    gadolinium-based contrast agent or, when not available, choose a different Iodine-based
+    contrast medium or gadolinium-based contrast agent if the culprit contrast agent is
+    known*
+ ‫ ׇ‬When the contrast medium is administered: observe the patient at least 30 minutes with
 
-**Comité 2025:**
-- Olivier Clément (FR) - Chair
-- Laura Romanini (IT) - Vice Chair
-- Aart J. van der Molen (NL) - Secretary
-- Et nombreux membres internationaux
+
+                                                13
+  Contents
+ESUR                            Contrast Media Safety Committee Guidelines 2025
+
+
+
+  IV line in place
+‫ ׇ‬Give the patient written instructions for a possible repeat non-immediate hypersensitivity
+  reaction
+‫ ׇ‬If a non-immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+  mandatory
+
+In patients with a history of a moderate non-immediate hypersensitivity reaction to an io-
+dine-based contrast medium or a gadolinium-based contrast agent without danger signs:
+ ‫ ׇ‬Refer the patient to a drug allergy specialist (if not done before)
+ ‫ ׇ‬Optimize the allergy registration in the electronic health record
+ ‫ ׇ‬Apply the advice of the drug allergy specialist for a safe iodine-based contrast medium or
+    gadolinium-based contrast agent or, when not available, choose a different Iodine-based
+    contrast medium or gadolinium-based contrast agent if the culprit contrast agent is
+    known*
+ ‫ ׇ‬When the contrast medium is administered: observe the patient at least 30 minutes with
+    IV line in place
+ ‫ ׇ‬Give the patient written instructions for a possible repeat non-immediate hypersensitivity
+    reaction
+ ‫ ׇ‬If a non-immediate hypersensitivity reaction recurs, referral to a drug allergy specialist is
+    mandatory
+
+In patients with a history of a severe non-immediate hypersensitivity reaction to an io-
+dine-based contrast medium or a gadolinium-based contrast agent with danger signs**
+(SCAR):
+ ‫ ׇ‬Refer the patient urgently to a drug allergy specialist (if not done before)
+ ‫ ׇ‬Choose an alternative imaging modality
+ ‫ ׇ‬Optimise the allergy registration in the electronic health record
+
+DO NOT give the group of contrast agent to which the severe skin reaction has occurred:
+‫ ׇ‬Avoid all iodine-based contrast media after a severe non-immediate hypersensitivity
+  reaction to an iodine-based contrast medium
+‫ ׇ‬Avoid all gadolinium-based contrast agents after a severe non-immediate
+  hypersensitivity reaction to a gadolinium-based contrast agent
+‫ ׇ‬Individualise the approach following multidisciplinary consultation after a severe reaction
+  to an unknown contrast agent
+
+*       Consider cross-reactivity of contrast media and an increased risk for non-immediate hyper-
+sensitivity reaction with use of iso-osmolar dimeric iodine-based contrast media
+**      Danger signs: erosive and/or haemorrhagic lesions, blistering and skin disruption, mucosal
+involvement, extracutaneous organ involvement (high fever, abnormal liver / kidney values, lymph-
+adenopathy)
+
+
+Cross-reactivity between contrast agents
+
+Cross-reactivity is most relevant in allergic hypersensitivity reactions and cannot be
+predicted on the basis of the chemical structure
+
+
+
+                                                 14
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+Based on current knowledge, cross-reactivity can occur with a higher frequency among:
+‫ ׇ‬Iodine-based contrast media with a N-(2,3-hydroxypropyl)-carbamoyl side chain
+‫ ׇ‬Macrocyclic gadolinium-based contrast agents
+
+The drug allergy specialist determines through an evaluation including skin testing with a
+panel of different iodine-based contrast media and gadolinium-based contrast agents:
+‫ ׇ‬The allergic nature of the hypersensitivity reaction
+‫ ׇ‬Cross-reactivity between contrast media
+‫ ׇ‬Suggestions for safe alternative contrast agents
+
+
+Change to an alternative contrast agent based on practical experience
+
+CMSC cannot make evidence-based recommendations on a robust scientific basis for
+change to an alternative contrast agent based on practical experience.
+
+Imaging physicians should use their available choices of alternative contrast agents,
+adhere to local or national guidelines, and ensure that patients get optimal surveillance by
+adequately trained staff, if needed with rapid response (or resuscitation) team support.
+
+
+Prevention of contrast-associated acute kidney injury (CA-AKI)
+when administering iodine-based contrast media
+Note: From 2025 onwards, the CMSC will follow the recommendations by the ACR/NKF
+Consensus 2020, and therefore the older term post-contrast acute kidney injury (PC-AKI)
+has been updated to contrast-associated acute kidney injury (CA-AKI).
+
+Definitions
+
+   ‫ ׇ‬Contrast-associated acute kidney injury (CA-AKI) is defined as an increase in
+     serum creatinine > 0.3 mg/dl (or > 26.5 μmol/l), or > 1.5 times baseline, within 48-72
+     hours of intravascular administration of a contrast agent.
+   ‫ ׇ‬Intra-arterial injection with first pass renal exposure indicates that contrast agent
+     reaches the kidneys in a relatively undiluted form, e.g. injection into the left heart,
+     thoracic and suprarenal abdominal aorta or the renal arteries.
+   ‫ ׇ‬Intra-arterial injection with second pass renal exposure indicates that contrast
+     agent reaches the kidneys after dilution either in the pulmonary or peripheral
+     circulation, e.g. injection into the right heart, pulmonary artery, carotid, subclavian,
+     coronary, mesenteric or infra- renal arteries.
+
+
+Measurement of renal function
+
+Estimated glomerular filtration rate (eGFR), calculated from the serum creatinine (sCr), is the
+recommended method to estimate renal function before contrast agent administration.
+
+
+
+                                               15
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+  ‫ ׇ‬In adults ≥ 18 years the creatinine-based 2009 CKD-EPI formula is recommended to
+    calculate eGFR:
+    eGFR (ml/min/1.73 m²) =
+    Female sCr ≤ 62 μmol/l: 144 x (sCr / 62)- 0.329 x 0.993Age
+    Female sCr > 62 μmol/l: 144 x (sCr / 62)- 1.209 x 0.993Age
+    Male sCr ≤80 μmol/l: 141 x (sCr / 80)- 0.411 x 0.993Age
+    Male sCr > 80 μmol/l: 141 x (sCr / 80)- 1.209 x 0.993Age
+    (sCr in μmol/l; age in years)
+    All equations x 1.159 if African American race.
+  ‫ ׇ‬In children, the revised Schwartz formula is recommended to calculate eGFR:
+    eGFR (ml/min/1.73 m²) = 36.5 x length / sCr
+    (sCr in μmol/l; length in cm)
+
+
+Note: Neither serum nor plasma creatinine is an ideal indicator of renal function and may
+miss decreased renal function. Measurement of eGFR is not useful in patients with end
+stage kidney disease who are receiving dialysis treatment. The person requesting the
+investigation or procedure should discuss the benefits and risks of administering iodine-
+based contrast in the context of the patient’s residual urine output.
+
+Risk factors
+
+Patient-related risk factors
+   ‫ ׇ‬eGFR less than 45 ml/min/1.73 m² before intra- arterial contrast medium administration
+      with first pass renal exposure or in ICU patients.
+   ‫ ׇ‬eGFR less than 30 ml/min/1.73 m² before intravenous contrast medium or intra-arterial
+      contrast medium administration with second pass renal exposure.
+   ‫ ׇ‬Known or suspected acute renal failure.
+Procedure-related risk factors
+   ‫ ׇ‬Large doses of contrast medium given intra-arterially with first pass renal exposure.
+   ‫ ׇ‬Multiple contrast medium injections within 48-72 hours.
+
+
+At the time of referral
+Elective examinations
+
+Measurement of renal function
+Measure eGFR before administering intravascular iodine-based contrast medium either
+(a) in all patients, or
+(b) in patients who have a history of
+   ‫ ׇ‬Renal disease (eGFR < 60 ml/min/1.73 m2, but not in patients receiving dialysis
+        treatment, compare note above)
+   ‫ ׇ‬Kidney surgery
+   ‫ ׇ‬Proteinuria
+   ‫ ׇ‬Hypertension
+   ‫ ׇ‬Hyperuricemia
+   ‫ ׇ‬Diabetes mellitus
+
+
+                                             16
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+Timing of eGFR measurement
+  ‫ ׇ‬Within 7 days before contrast medium administration in patients with an acute disease,
+     an acute deterioration of a chronic disease, or who are hospital inpatients.
+  ‫ ׇ‬Within 3 months before contrast medium administration in all other patients.
+
+
+Emergency examinations
+
+Identify at-risk patients (see above) if possible:
+   ‫ ׇ‬Determine eGFR if the procedure can be deferred until the result is available without
+       harm to the patient.
+   ‫ ׇ‬If eGFR cannot be obtained, follow the protocols for patients with eGFR less than
+       45 ml/min/1.73 m2 for intra-arterial administration with first pass renal exposure and
+       eGFR less than 30 ml/min/1.73 m2 for intravenous administration and intra-arterial
+       administration with second pass renal exposure as closely as clinical circumstances
+       permit.
+
+
+Before the Examination
+Elective examinations
+
+At-risk patients (see above)
+   ‫ ׇ‬Consider an alternative imaging method not using iodine-based contrast media.
+   ‫ ׇ‬Intravenous saline and bicarbonate protocols have similar efficacy for preventive
+       hydration.
+   ‫ ׇ‬For intravenous contrast medium and intra- arterial contrast medium administration
+       with second pass renal exposure hydrate the patient either (a) with intravenous
+       sodium bicarbonate 1.4 % (or 154 mmol/l in dextrose 5 % water): 3 ml/kg/h for 1 hour
+       before contrast medium or (b) with intravenous saline 0.9 % 1 ml/kg/h for 3-4 hours
+       before and 4-6 hours after contrast medium.
+   ‫ ׇ‬For intra-arterial contrast medium administration with first pass renal exposure hydrate
+       the patient either with (a) intravenous sodium bicarbonate 1.4 % (or 154 mmol/l in
+       dextrose 5 % water): 3 ml/kg/h for 1 hour before followed by 1 ml/kg/h for 4-6 hours
+       after contrast medium or (b) with intravenous saline 0.9 % for 3-4 hours before and
+       4-6 hours after contrast medium.
+   ‫ ׇ‬The referring physician responsible for patient care should individualize preventive
+       hydration in patients with severe congestive heart failure (NYHA grade 3-4) or
+       patients with end-stage renal failure (eGFR < 15 ml/min/1.73 m2).
+   ‫ ׇ‬Oral hydration is not recommended as the sole method of preventive hydration.
+
+
+Emergency examinations
+
+At-risk patients (see above)
+   ‫ ׇ‬Consider an alternative imaging method not using iodine-based contrast media.
+
+
+
+                                              17
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+   ‫ ׇ‬Use preventive hydration before contrast medium administration (see Elective
+     examination above for protocols).
+   ‫ ׇ‬Individualise if the patients’ condition does not allow preventive hydration
+
+
+At the time of the examination
+
+All patients
+    ‫ ׇ‬Use low- or iso-osmolar contrast media.
+    ‫ ׇ‬Use the lowest dose of contrast medium consistent with a diagnostic result.
+    ‫ ׇ‬For intra-arterial administration of iodine-based contrast media with first-pass renal
+       exposure, it is recommended to maintain either of the following when using a contrast
+       medium concentration of 350 mg iodine/ml:
+        ‫ ׇ‬the ratio of contrast medium dose (grams of iodine) to absolute eGFR (ml/min)
+           below 1.1, or
+        ‫ ׇ‬the ratio of contrast medium volume (ml) to eGFR (ml/min/1.73 m²) below 3.0
+
+
+After the Examination
+
+At-risk patients
+   ‫ ׇ‬Continue preventive hydration if appropriate (see protocols above).
+   ‫ ׇ‬Determine eGFR 48 hours after contrast medium administration.
+   ‫ ׇ‬If at 48 hours there is a diagnosis of CA-AKI, monitor the patient clinically for at least
+       30 days and determine eGFR at regular intervals.
+
+
+Note: No pharmacological prophylaxis (with statins, renal vasodilators, receptor antagonists
+of endogenous vasoactive mediators or cytoprotective drugs, etc.) has been shown to offer
+consistent protection against CA-AKI.
+
+Prevention of CA-AKI in multiple myeloma patients
+
+‫ ׇ‬Multiple myeloma patients with normal renal function are not at increased risk of CA-AKI
+  if they are well hydrated and low- or iso-osmolar iodine-based contrast media are used.
+‫ ׇ‬Multiple myeloma patients often have reduced renal function, and such patients are at
+  increased risk of CA-AKI.
+‫ ׇ‬Multiple myeloma patients often have hypercalcemia which can increase the risk of
+  kidney damage. Correction of hypercalcemia before contrast medium administration
+  should be discussed with the haematologist.
+‫ ׇ‬Assessment for Bence Jones proteinuria before contrast medium administration is not
+  recommended.
+
+
+
+
+                                               18
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Renal adverse reactions to gadolinium-based contrast agents
+MRI examinations
+The risk of CA-AKI is extremely low when gadolinium-based contrast agents are used in
+approved doses.
+Radiographic examinations
+Gadolinium-based contrast agents are not approved for x-ray based angiographic
+examinations or CT.
+
+
+Safe use of contrast agent administration in patients on dialysis
+All iodine- and gadolinium-based contrast agents can be removed by haemodialysis or
+peritoneal dialysis. However, there is no evidence that haemodialysis protects patients with
+impaired renal function from post contrast acute kidney injury or nephrogenic systemic
+fibrosis. In all patients, avoid osmotic and fluid overload.
+
+Patients on haemodialysis
+Iodine-based contrast medium
+
+  ‫ ׇ‬Coordination of time of the contrast medium injection with the haemodialysis
+    session(s) is unnecessary.
+  ‫ ׇ‬Extra haemodialysis session(s) to remove contrast medium is not recommended.
+
+Gadolinium-based contrast agent
+
+An immediate dialysis session is not needed after macrocyclic gadolinium-based contrast
+agents but is indicated after linear agents (e.g., liver-specific agents) and needs to be
+repeated on the following two days.
+
+Patients on continuous ambulatory peritoneal dialysis
+Iodine-based contrast medium
+
+Additional haemodialysis to remove the contrast medium is unnecessary.
+
+
+Gadolinium-based contrast agent
+
+An immediate dialysis session is not needed after macrocyclic gadolinium-based contrast
+agents.
+
+The risk of NSF due to linear gadolinium-based contrast agents should be weighed against
+the risk of placement of a temporary haemodialysis catheter (in consultation with the
+referring physician).
+
+
+
+                                              19
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Management and prevention of contrast agent extravasation
+Contrast extravasation is the commonest adverse event in radiological practise and is a
+complication where there is leakage of intravenously administered contrast agents (either
+iodine or gadolinium-based), into the surrounding soft-tissues.
+
+Type of injuries
+  ‫ ׇ‬Most injuries are minor (swelling, discomfort).
+  ‫ ׇ‬Severe injuries include skin ulceration, soft-tissue necrosis, and compartment
+     syndrome.
+Risk factors
+Technique-related risk factors
+   ‫ ׇ‬Less optimal injection sites including lower limb and small distal veins.
+   ‫ ׇ‬Large volume of contrast.
+   ‫ ׇ‬High-viscosity contrast.
+Patient-related risk factors
+   ‫ ׇ‬Inability to communicate.
+   ‫ ׇ‬Fragile or damaged veins.
+   ‫ ׇ‬Compromised lymphatic and/or venous drainage.
+   ‫ ׇ‬Obesity.
+To reduce the risk
+   ‫ ׇ‬Meticulous cannula insertion technique using an appropriate size upper arm vein is
+      preferred
+   ‫ ׇ‬Use an appropriately sized cannula for the vein and anticipated flow rate
+   ‫ ׇ‬Test injection with saline prior to contrast administration
+   ‫ ׇ‬Warming of iodine-based contrast medium, especially for compounds with a high
+      viscosity
+   ‫ ׇ‬Minimising the volume of contrast administered based upon the indication and patient
+      size
+   ‫ ׇ‬Use of correct flow rates and pressures appropriate to the specific catheter, especially
+      when using central venous catheters
+   ‫ ׇ‬Effective detection such as direct observation
+Recognition and diagnosis
+  ‫ ׇ‬Instruct the patient to report any pain or swelling, during or after injection
+  ‫ ׇ‬Observe for signs of extravasation directly both during and following injection, and
+     directly palpate the cannula insertion site
+  ‫ ׇ‬During contrast infusion observe for any alerts on the contrast injection system and
+     observe the patient for signs of distress. Observe monitoring scans for expected
+     contrast arrival and completed scans for enhancement
+         ‫ ׇ‬Mild: Minor erythema or swelling, no skin changes.
+         ‫ ׇ‬Moderate: Skin blistering, progressive oedema and/or ulceration. These will
+             require close monitoring and physician assessment is advised to assess for
+             any neurovascular compromise by checking peripheral pulse and sensation
+             distal in the affected limb
+
+
+                                              20
+  Contents
+ESUR                            Contrast Media Safety Committee Guidelines 2025
+
+
+
+             ‫ ׇ‬Severe: Any neurovascular compromise, signs of tissue necrosis or
+               compartment syndrome.
+Management
+Conservative
+  ‫ ׇ‬Stop injection and scan
+  ‫ ׇ‬Consult responsible physician
+  ‫ ׇ‬Mark out affected area
+  ‫ ׇ‬Assess severity - classify as mild, moderate, or severe (see above):
+        ‫ ׇ‬Mild cases: limb elevation, ice packs, monitor patient 2–4 hourly. If improving,
+            then discharge. If no improvement, then requires surgical opinion.
+        ‫ ׇ‬Moderate and severe cases: Radiographic documentation — two orthogonal
+            views or cross-sectional imaging can help assess compartmentalisation and
+            extent of extravasation
+  ‫ ׇ‬Record extravasation as a complication in radiology report and the local incident
+     reporting system
+  ‫ ׇ‬Patient information leaflet should be given to patient
+  ‫ ׇ‬Follow-up appointment, if necessary
+Involving a surgeon
+   ‫ ׇ‬If severe injury is suspected, then urgently seek advice of a surgeon
+   ‫ ׇ‬Surgical opinion also recommended for extravasate >150 ml
+
+
+
+Safe time intervals between contrast agent injections
+
+Successive iodine- and gadolinium-based contrast agent administration for
+routine examinations
+
+When combining contrast-enhanced CT or (coronary) angiography with an iodine-based
+contrast medium and contrast-enhanced MRI with a gadolinium-based contrast agent on
+the same day in elective situations, it is better to start with the MRI examination, unless the
+CT examination is intended for the kidneys, ureters, or bladder (CT Urography).
+
+In patients with normal renal function (eGFR >60 mL/min/1.73 m²), consider a waiting time
+between elective contrast-enhanced MRI with GBCA administration and contrast-enhanced
+CT or (coronary) angiography with iodine-based contrast medium administration of
+optimally 6 h (near complete clearance of the effects of the previously administered GBCA)
+and minimally 2 h (if clinical indication requires rapid follow-up).
+In patients with moderate renal impairment (eGFR 30-60 mL/min/1.73 m²), consider
+a waiting time between elective contrast-enhanced MRI with GBCA administration and
+contrast-enhanced CT or (coronary) angiography with iodine-based contrast medium
+administration of optimally 48 h (near complete clearance of the effects of the previously
+administered GBCA) and minimally 16 h (if clinical indication requires rapid follow-up).
+
+In severe renal impairment (eGFR < 30 mL/min/1.73 m²), consider a waiting time between
+elective contrast-enhanced MRI with GBCA administration and contrast-enhanced CT or
+
+
+                                               21
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+(coronary) angiography with iodine-based contrast medium administration of optimally 7
+days (168h - near complete clearance of the effects of the previously administered GBCA)
+and minimally 2.5 days / 60h (if clinical indication requires rapid follow-up).
+
+In emergency or life-threatening situations, employ no waiting time and perform back-to-
+back examinations.
+
+Waiting times between two iodine-based contrast medium injections for
+routine examinations
+
+Patients with normal renal function (GFR > 60 ml/min/1.73 m²):
+Consider a waiting time between administrations of optimally 12 h (near complete clearance
+of the previously administered iodine-based contrast media) and minimally 4h (if clinical
+indication requires rapid follow-up).
+
+Patients with moderate renal impairment (GFR 30-60 ml/min/1.73 m²):
+Consider a waiting time between administrations of optimally 48 h (near complete clearance
+of the previously administered iodine-based contrast media) and minimally 16 h (if clinical
+indication requires rapid follow-up).
+
+Patients with severely reduced renal function and (pre)dialysis patients with remnant
+renal function (GFR < 30 ml/min/1.73 m2):
+Consider a waiting time between administrations of optimally 7 days / 168h (near complete
+clearance of the previously administered iodine-based contrast media) and minimally 2.5
+days / 60h (if clinical indication requires rapid follow-up).
+
+Patients on dialysis with no remnant renal function:
+Consider a waiting time between successive iodine-based contrast media administrations of
+at least 3 dialysis sessions.
+
+In emergency or life-threatening situations, employ less waiting time between successive
+iodine-based contrast media administrations.
+
+Waiting times between two gadolinium-based contrast agent injections for
+routine examinations
+
+In patients without known renal impairment, consider a waiting time between elective
+contrast-enhanced MRIs with successive GBCA administrations of optimally 12h (near
+complete clearance of the previously administered iodine-based contrast media) and
+minimally 4h (if clinical indication requires rapid follow-up).
+
+In patients with moderate renal impairment (if available: eGFR 30–60 mL/min/1.73 m2),
+consider a waiting time between elective contrast-enhanced MRI with successive GBCA
+administrations of optimally 48h (near complete clearance of the previously administered
+iodine-based contrast media) and minimally 16h (if clinical indication requires rapid follow-
+up)
+
+
+
+                                              22
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+In severe renal impairment and (pre)dialysis patients with remnant renal function (eGFR
+< 30 mL/min/1.73 m2), consider a waiting time between elective contrast-enhanced MRI
+with successive GBCA administrations of optimally 7 days / 168h (near complete clearance
+of the previously administered iodine-based contrast media) and minimally 2.5 days / 60h (if
+clinical indication requires rapid follow-up).
+
+In patients on dialysis with no remnant renal function consider a waiting time between
+successive gadolinium-based contrast agent administrations of at least 3 dialysis sessions.
+
+In emergency or life-threatening situations, employ less waiting time between contrast-
+enhanced MRI with successive gadolinium-based contrast agent administrations.
+
+
+Analytical interference of intravascular contrast agents with clinical
+laboratory tests
+Radiological contrast agents, including iodine- and gadolinium-based compounds,
+can interfere with commonly used laboratory tests. Therefore, the CMSC offers expert
+consensus guidance on the timing and use of blood and urine analyses after imaging with
+contrast agents.
+
+Recommended delay in blood collection after administration of contrast
+agents:
+
+eGFR > 60 mL/min/1.73 m2 :
+At least 4h and optimally 12h after administration of the contrast
+
+eGFR 30-60 mL/min/1.73 m2 :
+At least 16h and optimally 48h after administration of the contrast
+
+eGFR < 30 mL/min/1.73 m2 :
+At least 2.5 days (60h) and optimally 7 days (168h) after administration of the contrast
+
+Recommended delay in urine collection after administration of contrast
+agents:
+
+eGFR > 60 mL/min/1.73 m2 :
+At least 24h after administration of the contrast
+
+eGFR 30-60 mL/min/1.73 m2 :
+At least 48h after administration of the contrast
+
+eGFR < 30 mL/min/1.73 m2 :
+At least 7 days (168h) after administration of the contrast
+
+
+
+
+                                               23
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Prevention of Nephrogenic Systemic Fibrosis (NSF)
+Diagnosis
+A diagnosis of nephrogenic systemic fibrosis (NSF) should only be made if the Yale NSF
+Registry clinical and histopathological criteria are met (J Am Acad Dermatol 2011; 65: 1095-
+1106). The association between nephrogenic systemic fibrosis (NSF) and gadolinium-based
+contrast agents was recognised in 2006.
+
+Clinical features
+   ‫ ׇ‬Onset can be from the day of exposure for up to 2-3 months. Rarely, it can occur
+      years after exposure.
+   ‫ ׇ‬Early changes are pain, pruritus, and swelling and erythema of the skin, which usually
+      start in the legs.
+   ‫ ׇ‬Later changes include fibrotic thickening of the skin and subcutaneous tissues and
+      limb contractures may occur. Fibrosis of internal organs, e.g. muscle, diaphragm,
+      heart, liver, lungs may also occur.
+   ‫ ׇ‬There may be death if involvement of internal organs is severe.
+
+Risk factors
+Patient related risk factors
+   ‫ ׇ‬Reduced renal function, particularly if eGFR< 15 ml/min/1.73 m²
+   ‫ ׇ‬Patients on dialysis.
+Contrast agent related risk factors
+  ‫ ׇ‬Gadodiamide was responsible for most reported NSF cases.
+  ‫ ׇ‬NSF also occurred after gadopentetate dimeglumine and gadoversetamide.
+  ‫ ׇ‬Gadopentetate dimeglumine and gadoversetamide are no longer available for
+      intravascular use in Europe.
+  ‫ ׇ‬Risk increases with increasing contrast agent dose, but NSF has been reported to
+      occur after a single dose.
+Estimated incidence in patients with severe renal failure
+  ‫ ׇ‬3-18 % in association with gadodiamide.
+  ‫ ׇ‬0.1-1 % in association with gadopentetate dimeglumine.
+Recommendations for all patients
+  ‫ ׇ‬Never deny a patient a clinically well-indicated enhanced MR-examination.
+  ‫ ׇ‬In all patients use the smallest amount of contrast necessary for a diagnostic result.
+    This includes considering for example the use of authority-approved software to
+    enhance contrast signal and/or enable dose reduction of contrast agents and / or the
+    use of high-relaxivity contrast agents.
+  ‫ ׇ‬Always record the name and dose of the contrast agent used in the patient records.
+
+
+
+
+                                             24
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Risk classification of gadolinium-based contrast agents and
+recommendations
+Highest risk of NSF
+
+Contrast agents
+  ‫ ׇ‬Gadodiamide (Omniscan®)
+      Ligand: Non-ionic linear chelate (DTPA-BMA)
+  ‫ ׇ‬Gadopentetate dimeglumine (Magnevist®)
+      Ligand: Ionic linear chelate (DTPA)
+  ‫ ׇ‬Gadoversetamide (Optimark®)
+      Ligand: Non-ionic linear chelate (DTPA-BMEA)
+
+
+Recommendations
+  ‫ ׇ‬European Medicines Agency (EMA) has suspended intravenous use of all high-
+     risk agents (Omniscan®, Magnevist®) and the Marketing Authorization Holder has
+     withdrawn Optimark® from the European market.
+  ‫ ׇ‬EMA states that Magnevist® may be used for arthrography.
+  ‫ ׇ‬CMSC supports these recommendations.
+
+
+Intermediate risk of NSF
+
+Contrast agents
+  ‫ ׇ‬Gadobenate dimeglumine (Multihance®)
+      Ligand: Ionic linear chelate (BOPTA)
+      Special feature: It is a combined extracellular and liver specific agent with 2-3%
+      albumin binding. In man ~4% is excreted via the liver.
+  ‫ ׇ‬Gadoxetate disodium (Primovist®, Eovist®)
+      Ligand: Ionic linear chelate (EOB-DTPA)
+Recommendations
+  ‫ ׇ‬EMA states that intermediate risk agents (Multihance®, Primovist®) are approved for
+     hepato-biliary imaging only.
+  ‫ ׇ‬CMSC supports this recommendation.
+
+Lowest risk of NSF
+
+Contrast agents
+  ‫ ׇ‬Gadopiclenol (Elucirem® / Vueway®)
+      Ligand: Non-ionic cyclic chelate (BP-DO3A)
+  ‫ ׇ‬Gadobutrol (Gadovist®, Gadavist®)
+      Ligand: Non-ionic cyclic chelate (BT-DO3A)
+  ‫ ׇ‬Gadoterate meglumine (Dotarem®, Magnescope® plus generic products)
+      Ligand: Ionic cyclic chelate (DOTA)
+
+
+                                              25
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+  ‫ ׇ‬Gadoteridol (Prohance®)
+    Ligand: Non-ionic cyclic chelate (HP-DO3A)
+
+
+Recommendations
+  ‫ ׇ‬Laboratory testing of renal function (eGFR) prior to contrast agent use is not
+     mandatory.
+  ‫ ׇ‬In patients with a known or suspected GFR < 30 mL/min, the use of these contrast
+     agents should follow standard risk–benefit considerations, considering the indication,
+     expected benefit, and risk of NSF.
+  ‫ ׇ‬Pregnant women: these agents can be used to give essential diagnostic information.
+  ‫ ׇ‬Lactating women: discarding the breast milk in the 24 hours after contrast is not
+     considered necessary, but the patient can discuss with the doctor whether she
+     wishes to do this.
+
+
+
+Safe use of contrast agents in pregnancy and lactation
+
+Pregnancy
+Iodine-based contrast media
+
+In exceptional circumstances, when radiographic examination is essential, iodine-
+based contrast media may be given to the pregnant female.
+
+Following administration of iodine-based contrast media to the mother during pregnancy,
+thyroid function should be checked in the neonate during the first week (neonatal testing of
+thyroid function is universal and routine in European countries).
+
+
+Gadolinium-based contrast agents
+
+When there is a very strong indication for enhanced MRI, the smallest possible dose of a
+macrocyclic gadolinium contrast agent may be given to the pregnant female.
+
+Following administration of gadolinium-based agents to the mother during pregnancy, no
+neonatal tests are necessary.
+
+Lactation
+Iodine-based contrast media
+
+Breast feeding may be continued normally when iodine-based contrast media are given to
+the mother.
+
+
+
+
+                                             26
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Gadolinium-based contrast agents
+
+Breast feeding may be continued normally when macrocyclic gadolinium-based contrast
+agents are given to the mother.
+
+Pregnant or lactating mother with renal impairment
+Iodine-based contrast media
+
+See Prevention of contrast-associated acute kidney injury.
+No additional precautions are necessary for the fetus or neonate.
+
+
+Gadolinium-based contrast agents
+
+Do not administer gadolinium-based contrast agents.
+
+
+Safe use of contrast agents in paediatric patients
+‫ׇ‬    Safety considerations when using contrast agents in neonates, infants and children are
+     like, but not the same as, in adults.
+‫ׇ‬    Contrast agent dose must be adjusted for patient age and weight.
+‫ׇ‬    Age-specific normal values of serum creatinine etc. must be used.
+‫ׇ‬    The revised Schwartz equation is recommended to measure eGFR.
+‫ׇ‬    The Summary of Product Characteristics for the contrast agent should be consulted,
+     because not all contrast agents are approved for use in children.
+‫ׇ‬    If no suitable contrast agent approved for use in children is available, informed consent
+     for off-label use must be obtained from parents/guardians. However, if use of a specific
+     contrast agent in children is contra-indicated, it may not be used, even with informed
+     consent.
+
+
+Safe use of contrast agents in patients with systemic diseases
+
+Safe use of contrast agents in patients with diabetes mellitus taking
+metformin
+Iodine-based contrast media
+
+Patients with eGFR > 30 ml/min/1.73 m2 and no evidence of AKI, receiving either intravenous
+or intra- arterial contrast medium with second pass renal exposure: Continue taking
+metformin normally.
+
+
+
+
+                                               27
+    Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+Patients
+‫ ׇ‬with eGFR < 30 ml/min/1.73 m2 receiving intravenous contrast medium, or intra-arterial
+  contrast medium with second pass renal exposure.
+‫ ׇ‬Receiving intra-arterial contrast medium with first pass renal exposure.
+‫ ׇ‬With acute kidney injury:
+Stop taking metformin from the time of contrast medium administration. Measure eGFR
+within 48 hours and restart metformin if renal function has not changed significantly.
+
+Gadolinium-based contrast agents
+
+No special precautions are necessary when diabetic patients on metformin are given
+gadolinium-based contrast agents as the risk of CA-AKI is extremely low and lactic acidosis
+has never been reported in this scenario.
+
+Prevention of iodine-induced hyperthyroidism
+
+Patients at risk:
+  ‫ ׇ‬Patients with untreated Graves’ disease.
+  ‫ ׇ‬Patients with multinodular goitre and thyroid autonomy, especially if they are elderly
+      and/or live in an area of dietary iodine deficiency.
+Patients not at risk:
+  ‫ ׇ‬Patients with normal thyroid function.
+Recommendations
+  ‫ ׇ‬Iodine-based contrast media should not be given to patients with manifest
+    hyperthyroidism.
+  ‫ ׇ‬In patients suspected of being at risk of thyrotoxicosis, TSH measurement may be
+    helpful.
+  ‫ ׇ‬In selected high-risk patients, prophylactic treatment may be given by an
+    endocrinologist.
+  ‫ ׇ‬Patients at risk should be closely monitored by endocrinologists after iodine-based
+    contrast medium injection.
+
+
+Safe use of contrast agents in patients with pheochromocytoma -
+paraganglioma (PPGL)
+
+Preparation
+   ‫ ׇ‬Before intravenous iodine- or gadolinium-based contrast agent: no special preparation
+     is required.
+   ‫ ׇ‬Before intra-arterial iodine-based contrast medium: α- and β-adrenergic blockade
+     with orally administered drugs under the supervision of the referring physician is
+     recommended.
+
+
+
+
+                                             28
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Safe use of contrast agents in patients with myasthenia gravis
+
+  ‫ ׇ‬Intravenous administration of low-osmolar and iso-osmolar iodine-based contrast
+    media can be associated with an exacerbation of myasthenia gravis symptoms, within
+    the first 24h after administration.
+  ‫ ׇ‬Exacerbation of myasthenia gravis symptomatology occurs probably in less than 5%
+    of the patients receiving low-osmolar or iso-osmolar iodine-based contrast media IV.
+  ‫ ׇ‬Gadolinium-based contrast agents are safe for myasthenia gravis patients
+
+
+
+Gadolinium retention in the brain and body
+
+Gadolinium retention in the brain
+
+Detection
+  ‫ ׇ‬Seen as regions of increased signal intensity in the deep brain nuclei on unenhanced
+     T1-weighed MR-images in patients administered GBCAs for prior MRI scans.
+  ‫ ׇ‬The association between these appearances and gadolinium- based contrast agents
+     was first noted in 2014.
+Characteristics
+  ‫ ׇ‬The signal intensity changes are not specific and may occur after manganese, iron,
+     calcium etc.
+  ‫ ׇ‬MR is less sensitive for detecting gadolinium in the brain than tissue analysis after
+     biopsy.
+  ‫ ׇ‬It is not known whether the deposited gadolinium remains chelated.
+  ‫ ׇ‬No relevant neurological symptoms have yet been confirmed.
+  ‫ ׇ‬The clinical significance of these changes is not yet known.
+  ‫ ׇ‬All studies have been retrospective.
+  ‫ ׇ‬Occurs independent of renal function.
+
+
+Relation to gadolinium-based agents
+  ‫ ׇ‬High signal intensity in the deep brain nuclei on MRI has been reported after all linear
+      chelate gadolinium-based agents, but not after macrocyclic agents alone.
+  ‫ ׇ‬Analysis of brain tissue has detected gadolinium after all gadolinium-based agents
+      with the highest levels of gadolinium in patients who had linear chelate GBCAs and
+      much lower levels in those who had macrocyclic gadolinium-based contrast agents
+      alone.
+  ‫ ׇ‬The greater the previous cumulative dose of the linear chelate gadolinium-based
+      contrast agent, the more widespread are the areas of increased signal intensity.
+  ‫ ׇ‬Only occurs after multiple doses
+
+
+
+
+                                             29
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Gadolinium retention in bone, liver and skin
+
+Detection
+  ‫ ׇ‬Requires biopsy and tissue analysis.
+Characteristics
+  ‫ ׇ‬Occurs independent of renal function.
+  ‫ ׇ‬May occur after any agent but greater amounts are retained after non-ionic linear
+     chelate gadolinium-based contrast agents.
+  ‫ ׇ‬Cannot be detected by MRI.
+  ‫ ׇ‬The amounts deposited are very small but greater than in the brain.
+  ‫ ׇ‬Bone and liver retention do not produce clinical symptoms.
+  ‫ ׇ‬Skin deposition has been associated with development of red skin plaques similar to
+     those seen in NSF.
+  ‫ ׇ‬Apart from NSF, the clinical consequences of bone, liver and skin deposition are
+     unknown.
+
+
+
+Safety of ultrasound contrast agents
+Statements
+   ‫ ׇ‬Ultrasound contrast agents are generally safe.
+   ‫ ׇ‬Clinical evidence of ultrasound contrast agent related events in critically ill patients
+     and patients with acute coronary disease is limited.
+Contraindication
+  ‫ ׇ‬Avoid ultrasound contrast agents in the 24 hours before extracorporeal shock wave
+     treatment.
+Type and severity of adverse reactions
+  ‫ ׇ‬Most reactions are minor (e.g. headache, nausea, sensation of heat, altered taste) and
+     self-resolving.
+  ‫ ׇ‬More severe acute reactions are rare and are like those after iodine- and gadolinium-
+     based agents
+To reduce the risk
+   ‫ ׇ‬Check for intolerance to any of the components of the contrast agent.
+   ‫ ׇ‬Use the lowest level of acoustic output and shortest scanning time to allow a
+      diagnostic examination.
+Treatment
+   ‫ ׇ‬If a serious adverse reaction occurs – see Management of Hypersensitivity Reactions
+
+
+
+
+                                               30
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Miscellaneous recommendations and topics
+
+Safety of CO2 as an alternative to iodine-based contrast media in vascular
+procedures
+
+The evidence in the literature on the safety and benefits of CO2 angiography as an
+alternative to iodine-based contrast media is limited due to the small number of meta-
+analyses, systematic reviews, RCTs and retrospective comparative studies. CO2
+angiography seems to be a safe alternative to iodine-based contrast media in vascular
+procedures, potentially reducing the risk of CA-AKI, especially in peripheral arterial disease
+(PAD) procedures when considering specific contraindications and safety measures and
+the higher incidence of non-serious adverse events. However, more large-scale RCTs are
+needed to confirm these findings and further investigate risk factors contributing to CA-
+AKI in both endovascular aneurysm repair (EVAR) and interventional procedures for PAD
+patients.
+
+Safe use of contrast agents in hysterosalpingography (HSG)
+
+   ‫ ׇ‬External validity is limited, as some of the contrast media used in the past are no
+     longer on the market.
+   ‫ ׇ‬Approximately 10% more pregnancies and live births occur after HSG with oil-based
+     contrast media compared to HSG with water-based contrast media
+   ‫ ׇ‬Image quality of HSG is significantly better when using oil-based contrast media
+   ‫ ׇ‬Intravasation during HSG occurs in equal frequency with both contrast media types
+   ‫ ׇ‬Oil-based contrast media can remain in the abdominal cavity for a prolonged period
+     of time and show a significantly greater inflammatory effect on the peritoneum than
+     water-based contrast media. The clinical consequences are unknown. Caution should
+     be taken when using oil-based contrast media in HSG.
+   ‫ ׇ‬Subclinical hypothyroidism occurs more often after HSG with oil-based contrast
+     media. Therefore, in every woman receiving oil-based contrast media, thyroid function
+     should be tested before HSG and monitored for 6 months after HSG with oil-based
+     contrast media.
+   ‫ ׇ‬Routine additional neonatal thyroid function tests after HSG are not indicated.
+
+
+Fasting before administration of contrast agents
+
+Fasting before intravenous administration of contrast agents dates from the time when high-
+osmolar iodine-based contrast media were used and many patients vomited. Fasting is not
+recommended before administration of low- or iso-osmolar non-ionic iodine-based contrast
+media, gadolinium-based agents or ultrasound contrast agents.
+
+Warming of iodine-based contrast medium before administration
+
+   ‫ ׇ‬Appears to make the patient more comfortable, based on clinical observation.
+   ‫ ׇ‬Reduces viscosity and may reduce the risk of contrast medium extravasation.
+
+
+                                               31
+  Contents
+ESUR                         Contrast Media Safety Committee Guidelines 2025
+
+
+
+  ‫ ׇ‬May reduce the rate of general adverse events, but data on this is limited.
+  ‫ ׇ‬Is widely regarded as good clinical practice.
+
+
+Off-label use of contrast agents
+
+  ‫ ׇ‬Off-label use of diagnostic and therapeutic medication is common.
+  ‫ ׇ‬The Summary of Product Characteristics (SPC) or label should be checked to see if
+    the proposed contrast agent use is approved for the particular patient and indication.
+  ‫ ׇ‬Choose a contrast agent which is approved for the particular patient and indication
+    whenever possible.
+  ‫ ׇ‬If there is no suitable approved contrast agent, the prescriber must tell the patient
+    about the risks and benefits of off-label contrast agent use and obtain the patient’s
+    informed consent to off-label contrast agent administration.
+
+
+Safety of barium contrast media
+
+Contraindications
+  ‫ ׇ‬Integrity of gut wall compromised: Use iodine-based water- soluble contrast media.
+     In neonates and patients at risk of leakage into mediastinum and/or lungs use low- or
+     iso-osmolar contrast media.
+  ‫ ׇ‬Previous allergic reactions to barium products: Use iodine-based water- soluble
+     contrast media and be prepared to treat a reaction.
+Cautions
+  ‫ ׇ‬Bowel strictures: Use only small amounts.
+  ‫ ׇ‬Extensive colitis: Avoid barium enemas.
+Complications
+  ‫ ׇ‬Reduced bowel motility: Encourage fluid intake.
+  ‫ ׇ‬Venous intravasation: Early identification and careful observation, antibiotics and
+    intravenous fluids, emergency treatment may be needed.
+  ‫ ׇ‬Aspiration: bronchoscopic removal for large amounts, chest physiotherapy, antibiotics.
+
+
+Pulmonary effects of iodine-based contrast media
+
+Pulmonary adverse effects
+   ‫ ׇ‬Bronchospasm.
+   ‫ ׇ‬Increased pulmonary vascular resistance.
+   ‫ ׇ‬Pulmonary oedema.
+
+
+Patients at high risk
+   ‫ ׇ‬History of asthma.
+   ‫ ׇ‬History of pulmonary hypertension.
+   ‫ ׇ‬Incipient cardiac failure.
+
+
+
+                                            32
+  Contents
+ESUR                         Contrast Media Safety Committee Guidelines 2025
+
+
+
+To reduce the risk of pulmonary adverse effects
+   ‫ ׇ‬Use low- or iso-osmolar contrast media.
+   ‫ ׇ‬Avoid large doses of contrast media.
+
+
+Gadolinium contamination of the environment
+
+  ‫ ׇ‬Use of gadolinium-based contrast agents for MRI has led to gadolinium reaching the
+    environment in wastewater.
+  ‫ ׇ‬At present the amounts of gadolinium in surface and tap water are very low but they
+    are likely to increase with increasing use of gadolinium-based contrast agents.
+  ‫ ׇ‬The risks of this gadolinium in the environment are not yet known.
+
+
+
+The following guidelines are currently being updated
+  ‫ ׇ‬Safety of ultrasound contrast agents
+  ‫ ׇ‬Safety of positive gastrointestinal contrast media
+  ‫ ׇ‬Contrast-associated encephalopathy following procedures requiring iodine-based
+    contrast media
+  ‫ ׇ‬Safe use of contrast agents in pregnancy and lactation
+  ‫ ׇ‬Effect of contrast agents on thyroid function in children and adults
+  ‫ ׇ‬Safe use of contrast agents in patients with type 2 diabetes mellitus using metformin
+  ‫ ׇ‬Prevention of CA-AKI
+  ‫ ׇ‬Prevention of NSF
+
+
+
+
+                                            33
+  Contents
+ESUR                                 Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Questionnaires and Letters
+
+Example of a suitable letter for the patient to take to the allergy consultation
+
+Dear colleague,
+
+[PATIENT´S NAME, DOB] had a hypersensitivity reaction after the administration of a
+contrast agent on [DATE].
+Examination type (e.g. CT, MRI, IV…): ...................................
+Type of contrast agent: iodine-based / gadolinium-based / ultrasound
+Name of the contrast agent: ...................................
+Dose administered: ...................................ml
+Route of administration (e.g. IV, IA, intra-articular, oral, local...): ...................................
+Time between the injection and the start of the clinical symptoms: ...................................
+Type of symptoms (describe): ...................................
+
+Grade of the reaction according to the Ring and Messmer classification:
+
+
+  Grade                 1                       2                       3                         4
+
+              Dermal                   Abdominal              Respiratory             Cardiovascular
+
+              Pruritus
+      1       Flushing Urticaria
+              Angioedema
+
+                                                                                      Tachycardia (increase
+              Pruritus                                        Rhinorrhea              of > 20 bpm),
+                                       Nausea
+     2        Flushing Urticaria                              Hoarseness Dys-         Blood pressure change
+                                       Cramping
+              Angioedema                                      pnea                    (> 20 mm Hg systolic),
+                                                                                      Arrhythmia
+
+              Pruritus                 Vomiting               Laryngeal edema
+     3        Flushing Urticaria       Defecation             Bronchospasm            Shock
+              Angioedema               Diarrhea               Cyanosis
+
+              Pruritus                 Vomiting
+     4        Flushing Urticaria       Defecation             Respiratory arrest      Cardiac arrest
+              Angioedema               Diarrhea
+
+
+Treatment given during the reaction (please specify): ...................................
+Outcome (e.g. follow up, ICU, return home): ...................................
+
+Tryptase blood test performed
+   ‫ ׇ‬at the time of the reaction: YES/NO
+   ‫ < ׇ‬4 hours later: YES/NO
+   ‫ ׇ‬Results: …………………..
+
+
+
+                                                       34
+  Contents
+ESUR                              Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Previous history of contrast agent reaction
+   ‫ ׇ‬Yes/No
+   ‫ ׇ‬If yes, please specify type of contrast agent and symptoms: ...................................
+
+Thank you for seeing the patient and performing skin testing to categorize the reaction as
+either allergic or non-allergic hypersensitivity, and to look for cross-reactivity so that a safer
+contrast agent can be recommended for future injections.
+
+Your sincerely,
+
+[DATE, NAME, SIGNATURE, DETAILS]
+
+
+
+
+                                                   35
+  Contents
+ESUR                                 Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Questionnaire for iodine-based contrast media administration to be
+completed by the referring clinician
+
+
+     USEFUL INFORMATION FOR PROCEDURES WITH INTRAVASCULAR
+         ADMINISTRATION OF IODINE-BASED CONTRAST MEDIA
+
+
+ Surname .................... Name ...................... Date of birth …..../…..../…...….. Weight …..….….
+
+
+ History of
+
+  □ previous reactions to iodine-based contrast media            ☐ YES ☐ NO
+    If yes, please describe the type of reaction, its treatment and attach any relevant documentation:
+
+  ……………………………………………………………………………………………………………………………………….
+
+  ……………………………………………………………………………………………………………………………………….
+
+ □ idiopathic anaphylaxis (previous shock without known cause)        ☐ YES ☐ NO
+ □ ongoing recurrent angioedema or ongoing chronic urticaria          ☐ YES ☐ NO
+ □ unstable asthma, uncontrolled by therapy, means that in the last 4 weeks the patient experienced:
+      - symptoms more than twice/week?                        ☐ YES ☐ NO
+      - waking up every night because of asthma?             ☐ YES ☐ NO
+      - use of salbutamol more than twice/week?              ☐ YES ☐ NO
+      - any activity limitation because of asthma?          ☐ YES ☐ NO
+
+ If you selected one of the disease or answered “yes” to one of the questions, the possibility of
+ performing the procedure will be considered in the Radiology Department and the exam could be
+ postponed awaiting for the results of the allergy consultation or for the evaluation of the Referring
+ Physician or other Specialists.
+
+ Please remember that premedication is not recommended, unless prescribed by the Allergologist.
+
+
+
+
+                                                         36
+ Contents
+ESUR                              Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+ Conditions increasing the risk of kidney injury after administration of iodine-based contrast
+ media
+
+ □ Acute kidney disease (or previous episodes) ☐ YES ☐ NO
+ □ Chronic kidney disease                          ☐ YES ☐ NO
+ □ Kidney surgery or any kidney intervention or kidney ablation procedure ☐ YES ☐ NO
+ □ Proteinuria           ☐ YES ☐ NO
+ □ Diabetes mellitus     ☐ YES ☐ NO if “yes” please inform if METFORMIN is given ☐ YES ☐ NO
+
+   If you answered “yes” to one of the questions remember that serum creatinine measurement
+   must be available within 3 months at the procedure time in risk patients.
+
+ ‫ ׇ‬Outpatients with eGFR<30 ml/min and scheduled examinations with intravenous
+   administration of contrast media (CT, contrast enhanced mammography-CESM) are required
+   to contact the Radiology Department where the procedure is planned – as soon as it is
+   scheduled – in order to organize an adequate iv hydration.
+ ‫ ׇ‬Patients with eGFR<45 ml/min who should undergo intra-arterial administration need to refer
+   to the Radiology Department/Referring Physician.
+ ‫ׇ‬
+ ‫ ׇ‬If METFORMIN is given with eGFR<30 ml/min and an examination with intravenous
+   administration of contrast medium is scheduled (CT, CESM) the Referring Physician is
+   required to stop metformin at the time of contrast administration; the drug can be resumed 48
+   hours later if renal function has not changed significantly.
+
+      Please remember that withdrawal of nephrotoxic drugs (such as ACE inhibitors-sartans,
+ aminoglycosides antifungal drugs, antiviral drugs, beta-blockers, biguanides, loop diuretics, non-steroid
+ anti-inflammatory drugs, interleukin-2) is not required unless the Nephrologist and/or the Referring
+ Physician considers it is appropriate.
+
+
+
+
+ Date …..……./……..…./……………
+
+
+ Completed by ……………………………………….…………
+
+
+
+
+                                                    37
+ Contents
+ESUR                         Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+ General recommendations for scheduled procedures (not in emergency):
+   ‫ ׇ‬Fasting is not required; it could be considered only for some exams (i.e. heart and
+     abdomen studies) as clarified in their informative forms;
+   ‫ ׇ‬Continue with the assumption of usual drugs (unless different advice of the Re-
+     ferring Physician) and with the usual water intake (adequate hydration is import-
+     ant);
+   ‫ ׇ‬Bring previous clinical documentation, including radiological images;
+   ‫ ׇ‬Rememeber that values of some laboratory tests may be altered within 24 hours of
+     contrast administration.
+
+ Information on this form refer to international guidelines (ESUR).
+
+
+
+
+                                            38
+ Contents
+ESUR                                 Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Questionnaire for gadolinium-based contrast agent administration to be
+completed by the referring clinician
+
+
+          USEFUL INFORMATION FOR MRI PROCEDURES WITH INTRAVASCULAR
+              ADMINISTRATION OF GADOLINIUM-BASED CONTRAST AGENTS
+
+ Surname ...................... Name ...................... Date of birth …..../…..../…... Weight ..............
+
+ History of
+ □ previous reactions to gadolinium-based contrast agents ☐YES ☐NO
+         if yes, please describe the type of reaction, its treatment and attach any relevant
+         documentation:
+         ……………………………………………………………………………………………………
+         ……………………………………………………………………………………………………
+ □ idiopathic anaphylaxis (previous shock without known cause) ☐ YES ☐ NO
+ □ ogoing recurrent angioedema or ongoing chronic urticaria ☐ YES ☐ NO
+ □ unstable asthma, uncontrolled by therapy, means that in the last 4 weeks the patient
+ experienced:
+         - symptoms more than twice/week? ☐ YES ☐ NO
+         - waking up every night because of asthma? ☐ YES ☐ NO
+         - use of salbutamol more than twice/week? ☐ YES ☐ NO
+         - any activity limitation because of asthma? ☐ YES ☐ NO
+ If you selected one of the disease or answered “yes” to one of the questions, the
+ possibility of performing the procedure will be considered in the Radiology Department
+ and the exam could be postponed awaiting for the results of the Allergology consultation
+ or for the evaluation of the Referring Physician or other Specialists.
+ Please remember that premedication is not recommended, unless prescribed by the
+ Allergologist.
+ Serum creatinine measurement is no longer required.
+
+ Ongoing dialysis ☐ YES ☐ NO
+
+            If yes, please inform in which days :
+
+         ……………………………………………………………………………………………………
+
+
+
+
+                                                        39
+ Contents
+ESUR                         Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+ Date …..……./……..…./……………..
+ Completed by ………….…………………………………………………
+
+ General recommendations for scheduled procedures (not in emergency):
+   ‫ ׇ‬Fasting is not required; it could be considered only for some exams (i.e. heart and
+     abdomen studies) as clarified in their informative forms;
+   ‫ ׇ‬Continue with the assumption of usual drugs (unless different advice of the
+     Referring Physician) and with the usual water intake (adequate hydration is
+     important);
+   ‫ ׇ‬Bring previous clinical documentation, including radiological images;
+   ‫ ׇ‬Rememeber that values of some laboratory tests may be altered within 24 hours of
+     contrast administration.
+
+ Information on this form refer to international guidelines (ESUR)
+
+
+
+
+                                            40
+ Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Appendices
+
+Appendix 1. Publications from the ESUR Contrast Media Safety Committee
+
+Aspelin P, Stacul F, Thomsen HS, Morcos SK, van der Molen AJ, Members of Contrast
+Media Safety Committee of European Society of Urogenital Radiology (ESUR). Iodinated
+Contrast Media and Blood interactions. Eur Radiol 2006; 16: 1041-1049.
+
+Bellin M-F, Jakobsen JÅ, Tomassin I, Thomsen HS, Morcos SK, Members of the Contrast
+Media Safety Committee of the European Society of Urogenital Radiology. Contrast medium
+extravasation injury: guidelines for prevention and management. Eur Radiol 2002; 12: 2807-
+2812.
+
+Bellin M-F, Webb JAW, van der Molen AJ, Thomsen HS, Morcos SK, Members of Contrast
+Media Safety Committee of European Society of Urogenital Radiology (ESUR). Safety of MR
+liver specific contrast media. Eur Radiol 2005; 15: 1607–1614.
+
+Bellin M-F, Stacul F, Webb JAW, Thomsen HS, Morcos S, Almén T, Aspelin P, Clement
+O, Heinz-Peer G, Reimer P, van der Molen AJ, on behalf of the Contrast Media Safety
+Committee of the European Society of Uroradiology (ESUR). Late adverse reactions to
+intravascular iodine- based contrast media: an update. Eur Radiol 2011; 21: 2305-2310.
+
+Clement O, Romanini L, van der Molen AJ; On behalf ESUR Contrast Media Safety
+Committee. Contrast media safety: update on recent ESUR-Contrast Media Safety
+Committee publications. Eur Radiol. 2024; 34: 7208-7210.
+
+ESUR Contrast Media Safety Committee (Thomsen HS). ESUR guideline: gadolinium-based
+contrast media and nephrogenic systemic fibrosis. Eur Radiol 2007; 17: 2692-2696.
+
+Geenen RWF, Roditi G, Bellin M-F, Bertolotto M, Brismar TB, Correas J-M, Dekkers IA,
+Heinz-Peer G, Mahnken AH, van der Molen AJ, Quattrocchi CC, Radbuch A, Reimer P,
+Sebastià C, Stacul F, Romanini L, Clement O on behalf of the ESUR Contrast Media Safety
+Committee. Safe use of contrast media in myasthenia gravis: systematic review and updated
+European Society of Urogenital Radiology Contrast Media Safety Committee guidelines. Eur
+Radiol 2024; 34, 4561–4566.
+
+Geenen RWF, van der Molen AJ, Dekkers IA, Bellin M-F, Bertolotto M, Correas J-M, Heinz-
+Peer G, Mahnken AH, Quattrocchi CC, Radbruch A, Reimer P, Roditi G, Sebastià C, Stacul F,
+Romanini L, Clément O, Brismar TB on behalf of the ESUR Contrast Media Safety Committee.
+Contrast media for hysterosalpingography: systematic search and review providing new
+guidelines by the Contrast Media Safety Committee of the European Society of Urogenital
+Radiology. Eur Radiol 2024; 34, 6435–6443.
+
+Jakobsen JÅ, Oyen R, Thomsen HS, Morcos SK, Members of Contrast Media Safety
+Committee of European Society of Urogenital Radiology (ESUR). Safety of ultrasound
+contrast agents. Eur Radiol 2005; 15: 941–945.
+
+
+
+
+                                             41
+  Contents
+ESUR                            Contrast Media Safety Committee Guidelines 2025
+
+
+
+Van der Molen AJ, Thomsen HS, Morcos SK, Members of Contrast Media Safety Committee
+of European Society of Urogenital Radiology (ESUR). Effect of iodinated contrast media on
+thyroid function in adults. Eur Radiol 2004; 14: 902–906.
+
+Van der Molen AJ, Reimer P, Dekkers IA, Bongartz G, Bellin M-F, Bertolotto M, Clement O,
+Heinz-Peer G, Stacul F, Webb JAW, Thomsen HS on behalf of the ESUR Contrast Media
+Safety Committee. Post-contrast acute kidney injury part 1: Definition, incidence, role of
+contrast medium and risk factors. Eur Radiol 2018; 28:2845-2855.
+
+Van der Molen AJ, Reimer P, Dekkers IA, Bongartz G, Bellin M-F, Bertolotto M, Clement O,
+Heinz-Peer G, Stacul F, Webb JAW, Thomsen HS on behalf of the ESUR Contrast Media
+Safety Committee. Post-contrast acute kidney injury part 2: Risk stratification, role of
+hydration and other prophylactic measures, patients taking metformin and chronic dialysis
+patients. Eur Radiol 2018; 28: 2856-2869.
+
+Van der Molen AJ, Dekkers IA, Geenen RWF, Bellin M-F, Bertolotto M, Brismar TB, Correas
+J, Heinz-Peer G, Mahnken AH, Quattrocchi CC, Radbruch A, Reimer P, Roditi G, Romanini L,
+Sebastià C, Stacul F, Clement O on behalf of the ESUR Contrast Media Safety Committee.
+Waiting times between examinations with intravascularly administered contrast media:
+a review of contrast media pharmacokinetics and updated ESUR Contrast Media Safety
+Committee Guidelines. Eur Radiol 2024; 34: 2512-2523.
+
+Van der Molen AJ, Krabbe JG, Dekkers IA, Geenen RWF, Bellin M-F, Bertolotto M, Brismar
+TB, Cadamuro J, Correas J-M, Heinz-Peer G, Langlois MR, Mahnken AH, Ozben T,
+Quattrocchi CC, Radbruch A, Reimer P, Roditi G, Romanini L, Sebastià C, Simundic A-M,
+Stacul F, Clement O on behalf of the ESUR Contrast Media Safety Committee. Analytical
+interference of intravascular contrast agents with clinical laboratory tests: a joint guideline by
+the ESUR Contrast Media Safety Committee and the Preanalytical Phase Working Group of
+the EFLM Science Committee. Eur Radiol 2024; 34: 4821–4827.
+
+Van der Molen AJ, Krabbe JG, Dekkers IA, Geenen RWF, Bellin M-F, Bertolotto M, Brismar
+TB, Cadamuro J, Correas J-M, Heinz-Peer G, Langlois MR, Mahnken AH, Ozben T,
+Quattrocchi CC, Radbruch A, Reimer P, Roditi G, Romanini L, Sebastià C, Simundic A-M,
+Stacul F, Clement O on behalf of the ESUR Contrast Media Safety Committee. Analytical
+interference of intravascular contrast agents with clinical laboratory tests: a joint guideline by
+the ESUR Contrast Media Safety Committee and the Preanalytical Phase Working Group of
+the EFLM Science Committee. Clin Chem Lab Med 2024; 62: 608–614.
+
+Van der Molen AJ, van de Ven AAJM, Vega F, Dekkers IA, Geenen RWF, Bellin M-F,
+Bertolotto M, Brismar TB, Clément O, Correas J-M, Deike K, Heinz G, Mahnken AH, Mallio
+CA, Quattrocchi CC, Radbruch A, Reimer P, Roditi G, Romanini L, Sebastià C, Stacul
+F. Hypersensitivity reactions to contrast media: Part 1. Management of immediate and non-
+immediate hypersensitivity reactions in adults. Updated guidelines by the ESUR Contrast
+Media Safety Committee. Eur Radiol 2025; 35: 6798-6810.
+
+Van der Molen AJ, van de Ven AAJM, Vega F, Dekkers IA, Geenen RWF, Bellin M-F,
+Bertolotto M, Brismar TB, Clément O, Correas J-M, Deike K, Heinz G, Mahnken AH, Mallio
+CA, Quattrocchi CC, Radbruch A, Reimer P, Roditi G, Romanini L, Sebastià C, Stacul F.
+
+
+                                               42
+  Contents
+ESUR                          Contrast Media Safety Committee Guidelines 2025
+
+
+
+Hypersensitivity reactions to contrast media: Part 2. Prevention of recurrent hypersensitivity
+reactions in adults. Updated guidelines by the ESUR Contrast Media Safety Committee. Eur
+Radiol 2025; 35: 6811-6825.
+
+Morcos SK, Bellin M-F, Thomsen HS, Almén T, Aspelin P, Heinz-Peer G, Jakobsen JÅ,
+Liss P, Oyen R, Stacul F, Van der Molen AJ, Webb JAW. Reducing the risk of iodine-based
+and MRI contrast media administration: Recommendation for a questionnaire at the time of
+booking. Eur J Radiol 2008; 66: 225-229.
+
+Morcos SK, Thomsen HS, Exley CM, Members of Contrast Media Safety Committee of
+European Society of Urogenital Radiology (ESUR). Contrast media: interaction with other
+drugs and clinical tests. Eur Radiol 2005; 15: 1463–1468.
+
+Morcos SK, Thomsen HS, Webb JAW and members of Contrast Media Safety Committee
+of the European Society of Urogenital Radiology (ESUR). Contrast media induced
+nephrotoxicity: a consensus report. Eur Radiol 1999; 9: 1602–1613.
+
+Morcos SK, Thomsen HS, Webb JAW and members of Contrast Media Safety Committee of
+the European Society of Urogenital Radiology (ESUR). Prevention of generalized reactions to
+contrast media: a consensus report and guidelines. Eur Radiol 2001; 11: 1720–1728.
+
+Morcos SK, Thomsen HS, Webb JAW, Members of the Contrast Media Safety Committee of
+European Society of Urogenital Radiology. Dialysis and contrast media. Eur Radiol 2002; 12:
+3026–3030.
+
+Roditi G, Nadir Khan N, van der Molen AJ, Bellin M-F, Bertolotto M, Brismar TB, Correas
+J, Dekkers IA, Geenen RWF, Heinz-Peer G, Mahnken AH, Quattrocchi CC, Radbruch A,
+Reimer P, Romanini L, Stacul F, Thomsen HS, Clément O on behalf of the ESUR Contrast
+Media Safety Committee. Intravenous contrast medium extravasation: systematic review and
+updated ESUR Contrast Media Safety Committee Guidelines. Eur Radiol 2022; 32: 3056–
+3066.
+
+Stacul F, van der Molen AJ, Reimer P, Webb JAW, Thomsen HS, Morcos SK, Almén T,
+Aspelin P, Bellin M-F, Clement O, Heinz-Peer G on behalf of the Contrast Media Safety
+Committee of the European Society of Urogenital Radiology. Contrast induced nephropathy:
+updated ESUR Contrast Media Safety Committee guidelines. Eur Radiol 2011; 21: 2527-2541.
+
+Stacul F, Bertolotto M, Thomsen HS, Pozzato G, Ugolini D, Bellin M-F, Bongartz G, Clement
+O, Heinz-Peer G, van der Molen A, Reimer P, Webb JAW on behalf of the ESUR Contrast
+Media Safety Committee. Iodine-Based Contrast Media and Multiple Myeloma: Literature
+Review and ESUR Contrast Media Safety Committee Guidelines. Eur Radiol 2018; 28: 683-
+691.
+
+Wawer Matos Reimer RP, Reimer P, Mahnken AH, Bellin, M-F, Bertolotto M, Brismar TB,
+Correas J-M, Deike-Hofmann K, Dekkers IA, Geenen RWF, Heinz-Peer G, Mallio CA, van der
+Molen AJ, Quattrocchi CC, Radbruch A, Roditi G, Romanini L, Sebastià C, Stacul F, Clément
+O. Safety and evidence of CO2 as a vascular contrast agent as an alternative to iodine-
+based contrast media in vascular procedures: a systematic review by the ESUR Contrast
+
+
+                                              43
+  Contents
+ESUR                           Contrast Media Safety Committee Guidelines 2025
+
+
+
+Medium Safety Committee. Eur Radiol 2025; online ahead of print; https://doi.org/10.1007/
+s00330-025-12001-5
+
+Thomsen HS (ed.) Contrast Media. Safety issues and ESUR Guidelines 1st ed. Heidelberg,
+Springer 2006.
+
+Thomsen HS, Webb JAW (eds.) Contrast Media. Safety Issues and ESUR Guidelines 2nd ed.
+Heidelberg, Springer 2009.
+
+Thomsen HS, Webb JAW (eds.) Contrast Media. Safety Issues and ESUR Guidelines 3rd ed.
+Heidelberg, Springer 2014.
+
+Thomsen HS, Almén T, Morcos SK, Members of Contrast Media Safety Committee of
+European Society of Urogenital Radiology. Gadolinium- containing contrast media for
+radiographic examinations: a position paper. Eur Radiol 2002; 12: 2600–2605.
+
+Thomsen HS, Morcos SK and members of Contrast Media Safety Committee of the
+European Society of Urogenital Radiology (ESUR). Contrast media and metformin.
+Guidelines to diminish the risk of lactic acidosis in non-insulin dependent diabetics after
+administration of contrast media. Eur Radiol 1999; 9: 738–740.
+
+Thomsen HS, Morcos SK, Members of Contrast Media Safety Committee of European
+Society of Urogenital Radiology (ESUR). Management of acute adverse reactions to contrast
+media. Eur Radiol 2004; 14: 476–481.
+
+Thomsen HS, Morcos SK, Members of Contrast Media Safety Committee of European
+Society of Urogenital Radiology (ESUR). In which patients should serum-creatinine be
+measured before contrast medium administration? Eur Radiol 2005; 15: 749–754.
+
+Thomsen HS, Morcos SK, Almén T, Bellin M-F, Bertolotto M, Bongartz G, Clement O,
+Leander P, Heinz-Peer G, Reimer P, Stacul F, Webb JAW, van der Molen AJ, on behalf of
+the Contrast Media Safety Committee of European Society of Urogenital Radiology (ESUR).
+Nephrogenic Systemic Fibrosis and Gadolinium-based Contrast Media: Updated ESUR
+Contrast Medium Safety Committee Guidelines. Eur Radiol 2013; 23: 307-318.
+
+Webb JAW, Stacul F, Thomsen HS, Morcos SK, Members of the Contrast Media Safety
+Committee of the European Society of Urogenital Radiology (ESUR). Late adverse reactions
+to intravascular iodinated contrast media. Eur Radiol 2003; 13: 181–184.
+
+Webb JAW, Thomsen HS, Morcos SK, Members of Contrast Media Safety Committee of
+European Society of Urogenital Radiology (ESUR). The use of iodinated and gadolinium
+contrast media during pregnancy and lactation. Eur Radiol 2005; 15: 1234–1240.
+
+
+
+
+                                              44
+  Contents
+ESUR                         Contrast Media Safety Committee Guidelines 2025
+
+
+
+
+Appendix 2. Contrast Media Safety Committee, 2025
+
+Olivier Clément (FR) - Chair
+Laura Romanini (IT) - Vice Chair
+Aart J. van der Molen (NL) - Secretary
+Marie-France Bellin (FR)
+Michele Bertolotto (IT)
+Torkel B. Brismar (SE)
+Katerina Deike (DE)
+Ilona A. Dekkers (NL)
+Remy W. F. Geenen (NL)
+Gertraud Heinz (AT)
+Andreas H. Mahnken (DE)
+Carlo Mallio (IT)
+Carlo C. Quattrocchi (IT)
+Alexander Radbruch (DE)
+Peter Reimer (DE)
+Giles Roditi (UK)
+Carmen Sebastià (ES)
+
+Industry Consultants
+Laura Schöckel (Bayer, DE)
+Hubertus Pietsch (Bayer, DE)
+Jeannette Rautenbach (GE Healthcare, UK)
+Eric Lancelot (Guerbet, FR)
+Alberto Spinazzi (Bracco, IT)
+
+
+
+
+                                           45
+  Contents
+
