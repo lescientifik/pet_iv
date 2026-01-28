@@ -85,14 +85,13 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 
 **Absolues:**
 - **Anurie** (absence de diurèse)
+- **Obstruction urétérale connue** (risque d'aggravation hydronéphrose)
+  - ⚠️ **Contexte gynéco** : vérifier imagerie récente (compression tumorale possible dans cancer col avancé)
 - Allergie aux sulfamides / hypersensibilité au furosémide
 - Hypovolémie / déshydratation sévère
 
-**Précautions majeures (évaluation au cas par cas):**
-- **Obstruction urinaire basse** (HBP, sténose urétrale) : risque de rétention aiguë → *dans le protocole avec sonde Foley, ce risque est levé*
-- **Obstruction urétérale** : précaution, le furosémide peut aggraver une hydronéphrose
-  - ⚠️ **Contexte gynéco** : une compression urétérale tumorale (cancer col avancé) peut exister → vérifier imagerie récente
-  - *Note : les RCP ne distinguent pas obstruction uni/bilatérale, mais une obstruction bilatérale avec anurie est une CI absolue*
+**Précautions (évaluation au cas par cas):**
+- **Obstruction urinaire basse** (HBP, sténose urétrale) : risque levé par la sonde Foley du protocole
 - Insuffisance rénale sévère (dose à adapter, risque d'ototoxicité)
 - Hypokaliémie non corrigée
 
