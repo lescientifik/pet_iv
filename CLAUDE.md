@@ -41,7 +41,8 @@ pet_iv/
 
 1. Recherche PubMed via pm-tools
 2. **Sauvegarder systématiquement** le résultat en JSONL dans `src/`
-   - Nommage : `YYYY-MM-DD_<sujet>.jsonl`
-   - Permet de revoir les recherches sans refaire d'appels API PubMed
+   - Nommage : `<timestamp>_<mots-clés verbatim>.jsonl`
+   - Ex: `1706450400_PET CT contrast gynecology.jsonl`
+   - Permet de tracer et revoir les recherches sans refaire d'appels API
 3. Synthèse des découvertes dans `knowledge/`
 4. Mise à jour de STATE.md à chaque session
