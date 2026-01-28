@@ -1,141 +1,194 @@
 # Recommandations EANM sur l'Injection de Produit de Contraste Iodé en TEP CT FDG
 
-**Source principale:** EANM Procedure Guidelines for Tumour Imaging v2.0 (2015)
-**PMID:** 25452219 | **PMC:** PMC4315529
-**DOI:** 10.1007/s00259-014-2961-x
+**Source principale:** EANM Procedure Guidelines for Tumour Imaging v3.0 (2025)
+**DOI:** 10.1016/j.eanmj.2025.100006
+**Journal:** The EANM Journal
+
+> **MISE À JOUR v3.0** : Ce document remplace la synthèse v2.0. Les changements majeurs sont signalés par ⚠️
 
 ---
 
-## 1. Stratégies d'Acquisition CT
+## 1. Types de CT en TEP/CT
 
-### Strategy 1 : Correction d'Atténuation Seule (sans contraste)
-- CT topogram
-- CT bas dose sans contraste
-- Acquisition PET
+### CT Bas Dose (Low-dose CT)
+- Pour **correction d'atténuation (CT-AC)** et corrélation anatomique uniquement
+- Tension/courant réduits
+- Non destiné à l'interprétation radiologique standard
 
-**Usage:** Quand l'imagerie diagnostique n'est pas nécessaire.
-
-### Strategy 2a : Recommandée pour Quantification
-- Suivre Strategy 1 (CT bas dose sans contraste)
-- **PUIS** acquisition CT diagnostique injecté séparée
-
-**Avantage:** Sépare la correction d'atténuation du CT diagnostique → évite les artefacts liés au contraste sur les mesures SUV.
-
-### Strategy 2b : Alternative
-- CT diagnostique injecté d'abord
-- **Délai minimum 60 secondes** pour dilution du contraste
-- Puis CT bas dose pour correction d'atténuation
-
-### Strategy 3 : CT Bas Dose Multi-phases
-1. CT topogram
-2. CT thoracique en inspiration profonde (20s post-injection) - NON utilisé pour correction/fusion
-3. CT corps entier bas dose (45s post-injection, phase d'équilibre)
-4. Acquisition PET
-
-### Strategy 4 : CT Diagnostique Multi-phases
-Identique à Strategy 3 mais avec paramètres CT diagnostiques au lieu de bas dose.
+### CT Diagnostique
+- Avec ou sans contraste IV et/ou oral
+- Doses X plus élevées
+- Apnée inspiratoire pour imagerie thoracique/pulmonaire
+- **Selon protocoles radiologiques locaux/nationaux**
 
 ---
 
-## 2. Impact du Contraste sur la Quantification
+## 2. Préparation Patient pour Injection Contraste
 
-### Artefacts de Correction d'Atténuation
-> "High intravenous or intestinal concentrations of contrast agent may cause artefacts in the reconstructed PET images following CT attenuation correction and thus affect quantification."
+### Évaluation Rénale
 
-### Phase d'Acquisition Recommandée
-- **Phase d'équilibre ou veineuse** (acquisition retardée)
-- **Éviter la phase artérielle** : concentrations trop élevées de contraste
+**Indications de contrôle créatinine/DFG:**
+- Âge > 60 ans
+- Antécédent de pathologie rénale (dialyse, greffe, rein unique, cancer rénal, chirurgie rénale)
+- Diabète
+- HTA nécessitant traitement médical
+- Prise de metformine
 
-### Impact sur les SUV
-- Si CT injecté utilisé pour correction d'atténuation (interprétation visuelle uniquement): **altération SUV < 10% en moyenne**
-- Pour études quantitatives rigoureuses: **Strategy 2a recommandée**
+**Seuils de risque élevé de néphrotoxicité:**
+- Créatinine > **130 μmol/L** (1.5 mg/dL)
+- DFGe < **30 mL/min/1.73 m²**
+
+**Délai du bilan:** Créatinine et DFGe dans les **4 semaines précédentes** (raccourcir si patient hospitalisé ou facteur de risque aigu)
+
+> 📖 **Référence:** Guidelines ESUR sur les agents de contraste IV (https://www.esur.org/esur-guidelines-on-contrast-agents/)
+
+### ⚠️ Gestion Metformine (CHANGEMENT MAJEUR v3.0)
+
+**Nouvelle recommandation selon ESUR:**
+
+| DFGe | Conduite à tenir |
+|------|------------------|
+| **> 30 mL/min/1.73 m²** sans IRA | **Continuer normalement** |
+| **< 30 mL/min/1.73 m²** OU IRA | Stop metformine au moment de l'injection, contrôle DFGe à 48h, reprendre si fonction stable |
+
+> ⚠️ **Changement vs v2.0:** La v2.0 recommandait l'arrêt systématique 48h. La v3.0 permet la poursuite si DFGe > 30.
+
+### ⚠️ NOUVEAU v3.0 : Inhibiteurs SGLT2
+
+**Concernés:** Dapagliflozine, Empagliflozine, Canagliflozine
+
+**Risque:** Cétose/acidocétose euglycémique péri-procédure
+
+**Conduite à tenir:**
+- Si bien hydraté : risque faible
+- **Si préoccupation :** omission 48h avant ET 48h après l'examen
+- **Impact sur l'uptake rénal/vésical** à prendre en compte
+
+### Allergie au Contraste
+
+- **Antécédent de réaction = facteur de risque principal**
+- Réactions sévères = préférer CT non injecté
+- Prémédication si examen injecté strictement nécessaire (protocole à indiquer par prescripteur)
+
+### Facteurs de Risque Néphropathie Induite
+
+- Insuffisance rénale préexistante
+- Diabète
+- Déshydratation/déplétion volémique
+- Médicaments néphrotoxiques concomitants
+- Dose élevée de contraste
+- Âge > 70 ans
+- Maladie cardiovasculaire
 
 ---
 
 ## 3. Protocole d'Injection IV
 
-### Paramètres Techniques
-- **Débit:** 2.5 ml/s
-- **Cathéter:** 20G minimum
-- **Administration:** Injecteur programmable recommandé
-
 ### Timing
-- Acquisition en phase d'équilibre/veineuse (retardée)
-- Délai minimum 45-60 secondes post-injection pour CT corps entier
+- **Phase porto-veineuse** recommandée
+- Si modification du timing : se référer aux guidelines CT injecté applicables
+
+### Paramètres Techniques (inchangés)
+- Débit : **2.5 ml/s**
+- Cathéter : **20G** minimum (localisation coude idéale)
+- Injecteur programmable recommandé
 
 ---
 
-## 4. Préparation Patient
+## 4. Contraste Oral
 
-### Évaluation Rénale (Obligatoire si injection IV)
-> "Creatinine and/or glomerular filtration should be evaluated, according to national guidelines, if intravenous contrast agent is to be used."
+### Recommandation v3.0
+> "Water or water-based contrast agents are often used as intraluminal contrast agents that provide improved image quality with reduced artefacts."
 
-### Gestion Metformine
-> "If intravenous contrast agent is going to be administered, metformin should be discontinued at the time of the procedure and withheld for 48 h after the procedure."
+**Agents recommandés:**
+- **Eau** ou agents à base d'eau
+- Distension égale ou meilleure que baryum
+- Clarté diagnostique égale ou meilleure
+- **Moins d'artefacts de correction d'atténuation**
 
-### Antécédents de Réaction
-> "A previous reaction to contrast agent is the most important of all the risk factors."
-
-- Évaluation systématique des antécédents
-- Prémédication si nécessaire selon protocoles locaux
-
----
-
-## 5. Contraste Oral
-
-### Agents Recommandés
-- **Agents positifs dilués** (ex: baryum dilué) pour études quantitatives
-- **Agents négatifs/eau** (ex: eau, gomme de caroube) possibles mais attention à l'absorption
-
-### Précautions
-> "High intraluminal concentrations of barium or iodinated contrast agents can cause an attenuation correction artefact in PET images, resulting in an overestimation of FDG accumulation."
-
-- Éviter les concentrations élevées
-- Valider les concentrations sur chaque équipement spécifique
+### Indications
+- CT abdomen/pelvis pour améliorer visualisation du tractus GI
+- Sauf si non nécessaire pour l'indication clinique ou contre-indiqué
 
 ---
 
-## 6. Indications Cliniques Principales du PET CT Injecté
+## 5. Impact sur Quantification et Artefacts
 
-### Bénéfices du Contraste (selon littérature)
-1. **Localisation anatomique précise** - différenciation lésion/structures adjacentes
-2. **Régions critiques:**
-   - Tête et cou (différenciation muscles/vaisseaux)
-   - Abdomen et pelvis (différenciation intestin/lésions)
-3. **Tumeurs faiblement FDG-avides** - aide à la détection/caractérisation
+### Artefacts de Correction d'Atténuation
+- Hautes concentrations IV ou intestinales de contraste = artefacts sur images PET reconstruites
+- **Surestimation de l'accumulation FDG** aux sites de concentration élevée
 
-### Applications Oncologiques
-- Staging initial des cancers à haute prévalence métastatique
-- Bilan d'extension ganglionnaire
-- Évaluation des récidives
-- Planification chirurgicale/radiothérapique
+### Recommandations
+- **Images avec ET sans correction d'atténuation** disponibles
+- Vérifier les lésions AC-PET sur images NAC-PET si adjacentes à matériaux très atténuants (contraste, implants métalliques)
+- En essais cliniques : critères d'analyse visuelle et quantitative à définir a priori
+
+### Supplemental File 4
+Les recommandations spécifiques sur l'utilisation du CT injecté pour la correction d'atténuation sont détaillées dans le Supplemental File 4 des guidelines.
 
 ---
 
-## 7. Synthèse des Recommandations
+## 6. Dose Effective et Radioprotection
 
-| Contexte | Stratégie Recommandée |
-|----------|----------------------|
-| Quantification SUV requise | Strategy 2a |
-| Interprétation visuelle seule | Strategy 3 ou 4 acceptable |
-| Pas de CT diagnostique nécessaire | Strategy 1 |
-| Contraste déjà injecté | Strategy 2b (délai ≥60s) |
+### Dose FDG
+- Coefficient : **1.7 × 10⁻² mSv/MBq**
+- ~3 mSv pour 185 MBq administrés
 
-### Points Clés
-1. **Séparer correction d'atténuation et CT diagnostique** quand quantification nécessaire
-2. **Éviter phase artérielle** - toujours phase d'équilibre/veineuse
-3. **Évaluer fonction rénale** systématiquement avant injection
-4. **Arrêt metformine** 48h post-procédure
-5. **Contraste oral dilué** si nécessaire
+### Dose CT (variable selon utilisation)
+| Type CT | Dose effective |
+|---------|---------------|
+| Très bas dose (correction atténuation seule) | 1 mSv |
+| Bas dose / intermédiaire | Variable |
+| CT diagnostique injecté + inspiration profonde | Jusqu'à 20 mSv ou plus |
+
+> Consulter les guidelines des sociétés radiologiques européennes pour l'estimation précise.
+
+---
+
+## 7. Systèmes Modernes (Digital / Grand FOV Axial)
+
+⚠️ **Les activités recommandées dans les guidelines classiques sont TROP ÉLEVÉES pour:**
+- Systèmes digitaux
+- Systèmes à grand champ de vue axial
+
+**Recommandation:** Suivre la procédure EARL pour ces systèmes.
+
+---
+
+## 8. Synthèse des Changements v2.0 → v3.0
+
+| Aspect | v2.0 (2015) | v3.0 (2025) |
+|--------|-------------|-------------|
+| **Metformine** | Arrêt systématique + 48h | Continuer si DFGe >30, stop si <30 ou IRA |
+| **SGLT2 inhibiteurs** | Non mentionné | Omission 48h si préoccupation |
+| **Contraste oral** | Baryum dilué ou négatif | **Eau/water-based préférés** (moins artefacts) |
+| **Seuil néphrotoxicité** | Créat >13 mmol/L, DFG <60 | Créat >130 μmol/L, **DFGe <30** |
+| **Référence externe** | Guidelines nationales | **Guidelines ESUR** explicitement |
+| **Systèmes modernes** | Non abordé | Procédure EARL recommandée |
+
+---
+
+## 9. Points Clés pour la Pratique
+
+1. **Suivre les guidelines ESUR** pour la gestion du contraste iodé
+2. **Metformine** : ne plus arrêter systématiquement si DFGe > 30
+3. **SGLT2** : nouvelle classe à surveiller (omission 48h si besoin)
+4. **Contraste oral** : préférer eau/agents hydrosolubles
+5. **Phase porto-veineuse** pour l'injection IV
+6. **Double reconstruction** (AC + NAC) pour identifier les artefacts
+7. **Adaptation des doses FDG** sur systèmes modernes (EARL)
 
 ---
 
 ## Références
 
-1. Boellaard R, et al. FDG PET/CT: EANM procedure guidelines for tumour imaging: version 2.0. Eur J Nucl Med Mol Imaging. 2015;42(2):328-54. PMID: 25452219
-2. Antoch G, et al. To enhance or not to enhance? 18F-FDG and CT contrast agents in dual-modality 18F-FDG PET/CT. J Nucl Med. 2004;45(1):56-65. PMID: 14736836
+1. Boellaard R, et al. [18F]FDG PET/CT: EANM procedure guidelines for tumour imaging: version 3.0. The EANM Journal. 2025. DOI: 10.1016/j.eanmj.2025.100006
+
+2. Boellaard R, et al. FDG PET/CT: EANM procedure guidelines for tumour imaging: version 2.0. Eur J Nucl Med Mol Imaging. 2015;42(2):328-54. PMID: 25452219
+
+3. ESUR Guidelines on Contrast Agents: https://www.esur.org/esur-guidelines-on-contrast-agents/
 
 ---
 
-*Document généré le 2026-01-28*
+*Document mis à jour le 2026-01-28 - Version 3.0*
 *Projet PET IV - Injection PCI sur TEP CT FDG*
