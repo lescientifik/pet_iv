@@ -5,37 +5,51 @@
 **Date** : 2026-01-28
 
 ### Travail effectué
-- [x] Recherche PubMed spécifique gynécologie (4 requêtes)
-- [x] Récupération 6 articles clés (PMIDs: 33275178, 34215923, 25345433, 28287942, 14736836, 27775939)
-- [x] **Synthèse complète**: `knowledge/gyneco_guidelines.md`
+- [x] **Protocole complet rédigé** : `knowledge/protocole_acquisition_gyneco.md`
 
-### Découvertes clés - Protocole gynéco
+### Contenu du protocole
 
-#### Furosémide (EANM/SNMMI guideline col utérin PMID 33275178)
-- **Posologie**: 20-40 mg IV (0.5 mg/kg)
-- **Timing**: Après injection FDG
-- **Hydratation**: ~1 L perfusion IV NaCl 0.9%
-- **Sonde urinaire**: OUI - Foley AVANT injection FDG, drainage par gravité
+#### Section Manipulateur
+- Checklist pré-examen complète (éligibilité PCI, grossesse, glycémie, eGFR)
+- Chronologie détaillée d'injection (FDG, furosémide, PCI)
+- Protocole furosémide avec sonde Foley
+- Gestion incidents (extravasation, réaction allergique)
+- Fiche synthèse opérationnelle
 
-#### Produit de contraste iodé
-- **N'affecte PAS l'interprétation visuelle** du PET (confirmé par littérature)
-- **Phase porto-veineuse** (~50-70 sec)
-- **Bénéfice majeur** : localisation anatomique pelvis (vaisseaux, ganglions iliaques)
-- **Contraste oral**: eau/agents hydrosolubles préférés (moins d'artefacts CT-AC)
+#### Section Physicien Médical
+- Paramètres d'acquisition TEP (activité, temps/lit, champ)
+- Paramètres CT diagnostique injecté
+- Reconstructions obligatoires (AC + NAC)
+- Documentation dose
+- Fiche synthèse
 
-#### Alternative "patient-friendly" (sans sonde)
-- Hydratation orale modérée + diurétique dose faible tardif
-- Acquisition retardée si nécessaire
-- Efficace pour bladder cancer (100% visualisation dans étude PMID 25345433)
+#### Section Médecin Interprétant
+- Pièges et faux positifs/négatifs (PMID 28287942)
+- Interprétation par localisation (col, ovaire, endomètre, vulve)
+- Artefacts liés au contraste et conduite à tenir
+- Structure compte-rendu recommandée
+
+#### Annexes
+- Arbres décisionnels (éligibilité PCI, choix protocole vésical)
+- Toutes les sources citées avec PMID
 
 ### Prochaines étapes
-- [ ] Rédaction protocole opérationnel pour le service
+- [x] ~~Rédaction protocole opérationnel pour le service~~
 - [ ] Formation équipe sur gestion vésicale
-- [ ] Check-list patient pré-examen
+- [ ] Check-list patient pré-examen (intégrée dans le protocole)
+- [ ] Validation par le chef de service
+- [ ] Mise en place pilote
 
 ---
 
 ## Historique
+
+### 2026-01-28 - Session 3 : Protocole d'Acquisition Complet
+- **Création protocole complet** : `knowledge/protocole_acquisition_gyneco.md`
+- Document structuré en 3 sections métier : Manipulateur, Physicien Médical, Médecin
+- Inclut chronologie détaillée, arbres décisionnels, fiches synthèses
+- Toutes les sources citées avec PMID et références ESUR/EANM v3.0
+- Protocole prêt pour validation et mise en œuvre
 
 ### 2026-01-28 - Session 2 : Guidelines TEP FDG Gynécologie
 - Recherche ciblée : protocole de réalisation (furosémide, contraste iodé)
