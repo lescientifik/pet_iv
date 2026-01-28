@@ -23,6 +23,8 @@ Mise en place de l'injection de produit de contraste iodé (PCI) sur les examens
 pet_iv/
 ├── CLAUDE.md          # Documentation projet (ce fichier)
 ├── STATE.md           # Suivi des sessions de travail
+├── src/               # Données brutes des recherches PubMed
+│   └── *.jsonl        # Exports pm-tools (1 fichier par recherche)
 └── knowledge/         # Découvertes et synthèses de la littérature
     └── *.md           # Documents de recherche
 ```
@@ -36,5 +38,8 @@ pet_iv/
 ## Workflow
 
 1. Recherche PubMed via pm-tools
-2. Synthèse des découvertes dans `knowledge/`
-3. Mise à jour de STATE.md à chaque session
+2. **Sauvegarder systématiquement** le résultat en JSONL dans `src/`
+   - Nommage : `YYYY-MM-DD_<sujet>.jsonl`
+   - Permet de revoir les recherches sans refaire d'appels API PubMed
+3. Synthèse des découvertes dans `knowledge/`
+4. Mise à jour de STATE.md à chaque session
