@@ -5,30 +5,44 @@
 **Date** : 2026-01-28
 
 ### Travail effectué
-- [x] Installation pm-tools (GitHub lescientifik/pm-tools)
-- [x] Recherche PubMed: "EANM FDG PET oncology guideline" → 25 articles
-- [x] Recherche PubMed: "PET CT contrast enhanced FDG oncology guideline" → 17 articles
-- [x] Extraction EANM Guidelines v2.0 (PMID 25452219, PMC4315529)
-- [x] **MISE À JOUR v3.0** (DOI: 10.1016/j.eanmj.2025.100006) - extraction complète
-- [x] Synthèse mise à jour: `knowledge/iv_recommendations_eanm.md`
+- [x] Recherche PubMed spécifique gynécologie (4 requêtes)
+- [x] Récupération 6 articles clés (PMIDs: 33275178, 34215923, 25345433, 28287942, 14736836, 27775939)
+- [x] **Synthèse complète**: `knowledge/gyneco_guidelines.md`
 
-### Découvertes clés v3.0 (changements vs v2.0)
-- ⚠️ **Metformine**: NE PLUS arrêter si DFGe >30 (suivre ESUR)
-- ⚠️ **SGLT2 inhibiteurs** (nouveau): omission 48h si préoccupation
-- ⚠️ **Contraste oral**: eau/water-based préférés (moins artefacts)
-- ⚠️ **Seuil néphrotoxicité**: DFGe <30 (vs <60 avant)
-- **Phase porto-veineuse** pour injection IV
-- **Double reconstruction AC/NAC** pour identifier artefacts
-- **Systèmes modernes**: suivre procédure EARL
+### Découvertes clés - Protocole gynéco
+
+#### Furosémide (EANM/SNMMI guideline col utérin PMID 33275178)
+- **Posologie**: 20-40 mg IV (0.5 mg/kg)
+- **Timing**: Après injection FDG
+- **Hydratation**: ~1 L perfusion IV NaCl 0.9%
+- **Sonde urinaire**: OUI - Foley AVANT injection FDG, drainage par gravité
+
+#### Produit de contraste iodé
+- **N'affecte PAS l'interprétation visuelle** du PET (confirmé par littérature)
+- **Phase porto-veineuse** (~50-70 sec)
+- **Bénéfice majeur** : localisation anatomique pelvis (vaisseaux, ganglions iliaques)
+- **Contraste oral**: eau/agents hydrosolubles préférés (moins d'artefacts CT-AC)
+
+#### Alternative "patient-friendly" (sans sonde)
+- Hydratation orale modérée + diurétique dose faible tardif
+- Acquisition retardée si nécessaire
+- Efficace pour bladder cancer (100% visualisation dans étude PMID 25345433)
 
 ### Prochaines étapes
-- [ ] Recherche spécifique gynécologie: ovarian cancer, cervical cancer, endometrial
-- [ ] Identifier études comparatives PET CT injecté vs non-injecté en onco-gynéco
-- [ ] Synthèse protocole pratique pour mise en place
+- [ ] Rédaction protocole opérationnel pour le service
+- [ ] Formation équipe sur gestion vésicale
+- [ ] Check-list patient pré-examen
 
 ---
 
 ## Historique
+
+### 2026-01-28 - Session 2 : Guidelines TEP FDG Gynécologie
+- Recherche ciblée : protocole de réalisation (furosémide, contraste iodé)
+- Récupération et analyse de 6 articles clés (guidelines EANM/SNMMI + études protocole)
+- **Création synthèse complète** : `knowledge/gyneco_guidelines.md`
+- Points clés : protocole furosémide 20-40 mg IV + sonde, PCI phase porto-veineuse compatible
+- Fichiers: `src/1769597216_gyneco_fdg_pet_guidelines_protocols.jsonl`
 
 ### 2026-01-28 - Session 1 : Setup + Synthèse EANM v3.0
 - Objectif défini : injection PCI sur TEP CT FDG
