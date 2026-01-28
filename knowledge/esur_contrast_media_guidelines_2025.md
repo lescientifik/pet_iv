@@ -270,7 +270,8 @@ Pour injection IA avec premier passage rénal, maintenir:
    - Non → hydratation préventive + STOP metformine + discussion bénéfice/risque
 
 4. **Grossesse ?**
-   - → Uniquement si indispensable (pas de contrôle TSH spécifique à prévoir)
+   - "Êtes-vous enceinte ou pourriez-vous l'être ?"
+   - Si OUI → "Date des dernières règles ?" → Discussion bénéfice/risque avec médecin référent
 
 5. **Allaitement ?**
    - → Pas de contre-indication, poursuite normale
