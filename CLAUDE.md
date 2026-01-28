@@ -34,6 +34,8 @@ pet_iv/
 - **pm-tools** : https://github.com/lescientifik/pm-tools
   - Outil pour effectuer les recherches PubMed
   - Utilisé pour la veille bibliographique
+  - **Utiliser `pm-tools --help`** pour connaître les commandes disponibles
+  - **JAMAIS utiliser `pm-show`** : c'est une fonction pour humains, lire directement les fichiers JSONL
 
 ## Workflow
 
