@@ -85,16 +85,19 @@ T60       : Vérification sonde perméable, acquisition TEP/TDM
 
 **Absolues:**
 - **Anurie** (absence de diurèse)
-- **Obstruction urinaire** (si l'écoulement urinaire ne peut être assuré)
 - Allergie aux sulfamides / hypersensibilité au furosémide
 - Hypovolémie / déshydratation sévère
 
-**Relatives:**
+**Précautions majeures (évaluation au cas par cas):**
+- **Obstruction urinaire basse** (HBP, sténose urétrale) : risque de rétention aiguë → *dans le protocole avec sonde Foley, ce risque est levé*
+- **Obstruction urétérale** :
+  - *Unilatérale* : utilisable avec prudence (rein controlatéral fonctionnel)
+  - *Bilatérale* : contre-indication relative (risque d'aggravation hydronéphrose bilatérale et IRA)
+  - ⚠️ **Contexte gynéco** : une compression urétérale tumorale (cancer col avancé) peut exister → vérifier imagerie récente
 - Insuffisance rénale sévère (dose à adapter, risque d'ototoxicité)
 - Hypokaliémie non corrigée
-- Impossibilité de sondage urinaire
 
-> **Source:** [FDA Label Lasix](https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/016273s068lbl.pdf) - "LASIX is contraindicated in patients with anuria"; "Urinary outflow must be secured"
+> **Source:** [StatPearls - Furosemide](https://www.ncbi.nlm.nih.gov/books/NBK499921/) - "Patients with urinary retention history [...] should be observed closely"; "excessive diuresis can lead to acute urinary retention leading to acute kidney injury"
 
 ### 2.3 Protocole "patient-friendly" (alternative sans sonde)
 
