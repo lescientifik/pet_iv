@@ -25,8 +25,10 @@ pet_iv/
 ├── STATE.md           # Suivi des sessions de travail
 ├── src/               # Données brutes des recherches PubMed
 │   └── *.jsonl        # Exports pm-tools (1 fichier par recherche)
-└── knowledge/         # Découvertes et synthèses de la littérature
-    └── *.md           # Documents de recherche
+├── knowledge/         # Découvertes et synthèses de la littérature
+│   └── *.md           # Documents de recherche
+└── dist/              # Documents générés (Word, PDF)
+    └── *.docx         # Protocoles exportés
 ```
 
 ## Outils
@@ -36,6 +38,13 @@ pet_iv/
   - Utilisé pour la veille bibliographique
   - **Utiliser `pm-tools --help`** pour connaître les commandes disponibles
   - **JAMAIS utiliser `pm-show`** : c'est une fonction pour humains, lire directement les fichiers JSONL
+
+- **pandoc** : Conversion Markdown → Word
+  - Commande : `pandoc fichier.md -o fichier.docx --standalone --toc --toc-depth=3`
+  - Options utilisées :
+    - `--standalone` : Document complet avec métadonnées
+    - `--toc` : Table des matières automatique
+    - `--toc-depth=3` : Profondeur de la table des matières
 
 ## Workflow
 
