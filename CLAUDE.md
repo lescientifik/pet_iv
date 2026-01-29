@@ -27,8 +27,9 @@ pet_iv/
 │   └── *.jsonl        # Exports pm-tools (1 fichier par recherche)
 ├── knowledge/         # Découvertes et synthèses de la littérature
 │   └── *.md           # Documents de recherche
-└── dist/              # Documents générés (Word, PDF)
-    └── *.docx         # Protocoles exportés
+└── dist/              # Documents générés (PDF)
+    ├── github-style.css   # Style CSS pour rendu GitHub-like
+    └── *.pdf              # Protocoles exportés
 ```
 
 ## Outils
@@ -39,12 +40,17 @@ pet_iv/
   - **Utiliser `pm-tools --help`** pour connaître les commandes disponibles
   - **JAMAIS utiliser `pm-show`** : c'est une fonction pour humains, lire directement les fichiers JSONL
 
-- **pandoc** : Conversion Markdown → Word
-  - Commande : `pandoc fichier.md -o fichier.docx --standalone --toc --toc-depth=3`
-  - Options utilisées :
-    - `--standalone` : Document complet avec métadonnées
-    - `--toc` : Table des matières automatique
-    - `--toc-depth=3` : Profondeur de la table des matières
+- **pandoc + weasyprint** : Conversion Markdown → PDF (style GitHub)
+  - Étape 1 - Markdown vers HTML :
+    ```bash
+    pandoc fichier.md -o fichier.html --standalone --toc --toc-depth=3 \
+      --embed-resources --css=dist/github-style.css --metadata title=" "
+    ```
+  - Étape 2 - HTML vers PDF :
+    ```bash
+    weasyprint fichier.html fichier.pdf
+    ```
+  - Le fichier `dist/github-style.css` contient le style imitant GitHub
 
 ## Workflow
 
