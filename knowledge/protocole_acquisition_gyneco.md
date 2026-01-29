@@ -324,25 +324,15 @@ Post-exam : Retrait sonde, surveillance miction
 
 | Paramètre | Valeur Standard | Source |
 |-----------|-----------------|--------|
-| **Activité** | 3-4 MBq/kg | EANM v3.0 |
-| **Maximum** | 400 MBq | EANM v3.0 |
-| **Minimum** | 150 MBq | EANM v3.0 |
+| **Activité** | 2.5 MBq/kg | pratique locale |
 
-> **Systèmes modernes (digital/grand FOV axial):** Les activités standard sont TROP ÉLEVÉES. Suivre procédure EARL. (EANM v3.0)
-
-### 3.1.2 Temps d'Acquisition par Lit
-
-| Type Système | Temps/lit recommandé | Source |
-|--------------|---------------------|--------|
-| Système conventionnel | 2-4 min/lit | EANM v3.0 |
-| Système digital | Adapter selon procédure EARL | EANM v3.0 |
 
 ### 3.1.3 Champ de Vue
 
 | Paramètre | Valeur |
 |-----------|--------|
 | **Étendue standard** | Vertex (ou base crâne) → mi-cuisses |
-| **Focus pelvis** | Inclure entièrement petit bassin + aires ganglionnaires iliaques et para-aortiques |
+
 
 ### 3.1.4 Ordre d'Acquisition
 
@@ -353,9 +343,7 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 3.2 Paramètres CT
-
-### 3.2.1 CT Diagnostique Injecté
+## 3.2 Paramètres CT Diagnostique Injecté
 
 | Paramètre | Valeur | Commentaire |
 |-----------|--------|-------------|
@@ -365,69 +353,9 @@ Post-exam : Retrait sonde, surveillance miction
 | **Pitch** | ~1 | Standard |
 | **Respiration** | Inspiration bloquée (thorax) | Expiration douce (abdomen-pelvis) |
 
-### 3.2.2 CT Basse Dose (si pas de PCI)
-
-| Paramètre | Valeur |
-|-----------|--------|
-| **kV** | 100-120 kV |
-| **mAs** | Réduit (30-50 mAs effectifs) |
-| **Usage** | Correction d'atténuation + repérage anatomique |
 
 ---
 
-## 3.3 Reconstructions
-
-### 3.3.1 Reconstructions TEP Obligatoires
-
-| Type | Usage | Source |
-|------|-------|--------|
-| **AC (Attenuation Corrected)** | Interprétation principale | EANM v3.0 |
-| **NAC (Non Attenuation Corrected)** | Vérification artefacts | EANM v3.0 |
-
-> "Images **with and without** attenuation correction should be available" (EANM v3.0)
-
-### 3.3.2 Reconstructions CT
-
-| Reconstruction | Fenêtre | Usage |
-|----------------|---------|-------|
-| Tissus mous | W400/L40 | Évaluation pelvis |
-| Pulmonaire | W1500/L-600 | Métastases pulmonaires |
-| Os | W2000/L500 | Métastases osseuses |
-
-### 3.3.3 Fusion et MIP
-
-| Type | Recommandation |
-|------|----------------|
-| Fusion TEP/CT | Obligatoire |
-| MIP (Maximum Intensity Projection) | Recommandé (vue d'ensemble) |
-| Coupes coronales et sagittales | Recommandées (pelvis) |
-
----
-
-## 3.4 Contrôle Qualité
-
-### 3.4.1 Vérifications Quotidiennes
-
-- Calibration SUV (fantôme cylindrique)
-- Uniformité détecteurs
-- Synchronisation TEP/CT
-
-### 3.4.2 Accréditation EARL
-
-> Pour les études multicentriques ou si comparaison SUV inter-examens : suivre procédure EARL (EANM v3.0)
-
-### 3.4.3 Documentation Dose
-
-| Paramètre | À documenter |
-|-----------|--------------|
-| Activité FDG injectée | MBq |
-| Heure injection | Exacte |
-| Heure début acquisition | Exacte |
-| DLP CT | mGy.cm |
-| Volume PCI | mL |
-| Type PCI | Nom commercial |
-
----
 
 ## 3.5 Dose Effective
 
@@ -444,31 +372,10 @@ Post-exam : Retrait sonde, surveillance miction
 
 # 4. Section Médecin Interprétant
 
-## 4.1 Éléments à Vérifier Avant Interprétation
 
-### 4.1.1 Informations Cliniques Indispensables
+## 4.1 Pièges et Faux Positifs (PMID 28287942)
 
-| Information | Impact sur interprétation |
-|-------------|--------------------------|
-| **Type histologique** | Tumeurs mucineuses = faible avidité FDG |
-| **Stade clinique** | Oriente recherche des sites métastatiques |
-| **Date dernières règles** | Uptake endométrial/ovarien physiologique |
-| **Traitements récents** | Chirurgie, chimiothérapie, radiothérapie |
-| **Antécédents** | Fibromes, endométriose, PID |
-
-### 4.1.2 Qualité Technique
-
-- [ ] Glycémie <11 mmol/L documentée
-- [ ] Délai injection-acquisition ~60 min (±5 min)
-- [ ] Vessie vidée/drainée correctement
-- [ ] Pas d'artefact de mouvement significatif
-- [ ] Rehaussement vasculaire adéquat (si PCI)
-
----
-
-## 4.2 Pièges et Faux Positifs (PMID 28287942)
-
-### 4.2.1 Uptake Physiologique
+### 4.1.1 Uptake Physiologique
 
 | Source | Caractéristiques | Différentiation |
 |--------|------------------|-----------------|
@@ -477,7 +384,7 @@ Post-exam : Retrait sonde, surveillance miction
 | **Uretères** | Activité linéaire | Trajet anatomique, NAC |
 | **Vessie** | Intense, variable | Protocole furosémide/miction |
 
-### 4.2.2 Pathologies Bénignes
+### 4.1.2 Pathologies Bénignes
 
 | Pathologie | Piège | Différentiation |
 |------------|-------|-----------------|
@@ -488,7 +395,7 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 4.3 Pièges et Faux Négatifs (PMID 28287942)
+## 4.2 Pièges et Faux Négatifs (PMID 28287942)
 
 | Situation | Raison | Solution |
 |-----------|--------|----------|
@@ -501,9 +408,9 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 4.4 Interprétation par Localisation Tumorale
+## 4.3 Interprétation par Localisation Tumorale
 
-### 4.4.1 Cancer du Col Utérin (PMID 33275178)
+### 4.3.1 Cancer du Col Utérin (PMID 33275178)
 
 #### Points d'attention staging
 
@@ -519,7 +426,7 @@ Post-exam : Retrait sonde, surveillance miction
 
 > "Acquisition should be performed with an **empty bladder**. Patients should void just prior to the [18F]FDG PET/CT." (PMID 33275178)
 
-### 4.4.2 Cancer de l'Ovaire (PMID 34215923)
+### 4.3.2 Cancer de l'Ovaire (PMID 34215923)
 
 #### Points d'attention staging
 
@@ -533,16 +440,9 @@ Post-exam : Retrait sonde, surveillance miction
 
 > **Limite connue:** Faible sensibilité pour carcinose microscopique (<1 cm) (PMID 34215923)
 
-### 4.4.3 Cancer de l'Endomètre
+### 4.3.3 Cancer de l'Endomètre
 
-> **Note:** Pas de guideline EANM spécifique. Recommandations extrapolées.
-
-| Site | Rechercher | Commentaire |
-|------|------------|-------------|
-| **Tumeur primitive** | Extension au myomètre | IRM = référence |
-| **Col utérin** | Extension cervicale | Impact staging FIGO |
-| **Ganglions** | Pelviens, para-aortiques | TEP plus sensible que CT seul |
-| **Péritoine** | Carcinose (stades avancés) | Surtout carcinomes séreux |
+> **Pas de guideline EANM spécifique.** 
 
 #### Uptake endométrial physiologique
 
@@ -552,14 +452,7 @@ Post-exam : Retrait sonde, surveillance miction
 
 ### 4.4.4 Cancer Vulve/Vagin
 
-> **Note:** Pas de guideline EANM spécifique. Recommandations extrapolées.
-
-| Site | Rechercher | Valeur ajoutée PCI |
-|------|------------|-------------------|
-| **Tumeur primitive** | Extension locale | - |
-| **Ganglions inguinaux** | Superficiels et profonds | Localisation anatomique |
-| **Ganglions pelviens** | Iliaques | Si vulve : en cas de franchissement ligne de Cloquet |
-
+> **Pas de guideline EANM spécifique.** 
 ---
 
 ## 4.5 Artefacts liés au Contraste (EANM v3.0)
@@ -583,17 +476,7 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 4.6 Quantification
-
-### 4.6.1 SUV (Standardized Uptake Value)
-
-| Paramètre | Utilisation |
-|-----------|-------------|
-| **SUVmax** | Le plus reproductible, recommandé pour comparaison |
-| **SUVmean** | Plus représentatif de la lésion entière |
-| **SUVpeak** | Moins sensible au bruit, études PERCIST |
-
-### 4.6.2 Impact du PCI sur SUV
+## 4.6 Quantification : Impact du PCI sur SUV
 
 > "Administering intravenous or diluted oral contrast media **does not affect visual assessment** of PET/CT in an oncological setting." (PMID 33275178)
 
@@ -605,9 +488,8 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 4.7 Compte-Rendu : Éléments à Mentionner
+## 4.7 Compte-Rendu, Partie Technique  : Éléments à Mentionner
 
-### 4.7.1 Technique
 
 - Type d'examen : TEP CT FDG corps entier
 - Activité injectée (MBq) et heure
@@ -615,35 +497,6 @@ Post-exam : Retrait sonde, surveillance miction
 - Injection PCI : type, volume, phase
 - Protocole vésical : standard / furosémide / sonde
 - Glycémie pré-injection
-
-### 4.7.2 Résultats
-
-**Structure recommandée:**
-
-```
-1. TUMEUR PRIMITIVE
-   - Localisation, dimensions
-   - SUVmax
-   - Extension locale
-
-2. ATTEINTE GANGLIONNAIRE
-   - Pelvienne : localisation précise, dimensions, SUVmax
-   - Para-aortique
-   - Autres (inguinale, sus-claviculaire)
-
-3. MÉTASTASES À DISTANCE
-   - Péritonéales
-   - Hépatiques
-   - Pulmonaires
-   - Osseuses
-   - Autres
-
-4. DÉCOUVERTES FORTUITES
-
-5. CONCLUSION
-   - Classification TNM métabolique
-   - Comparaison avec examen précédent (si applicable)
-```
 
 ---
 
@@ -691,46 +544,9 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 5.2 Fiche Synthèse Physicien
+## 5.2 Arbres Décisionnels
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║         TEP CT FDG GYNÉCO - FICHE PHYSICIEN                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  ACTIVITÉ FDG                                                ║
-║  • 3-4 MBq/kg (max 400 MBq, min 150 MBq)                     ║
-║  • Systèmes digitaux/grand FOV : procédure EARL              ║
-║                                                              ║
-║  PARAMÈTRES TEP                                              ║
-║  • Temps/lit : 2-4 min (adapter si digital)                  ║
-║  • Champ : vertex → mi-cuisses                               ║
-║  • Ordre : pelvis d'abord si pas de furosémide               ║
-║                                                              ║
-║  PARAMÈTRES CT INJECTÉ                                       ║
-║  • 120 kV / mAs selon protocole local                        ║
-║  • Phase porto-veineuse (50-70 sec post-PCI)                 ║
-║  • Débit PCI : 2.5 mL/s                                      ║
-║                                                              ║
-║  RECONSTRUCTIONS                                             ║
-║  • TEP : AC + NAC obligatoires                               ║
-║  • CT : tissus mous + pulmonaire + os                        ║
-║  • Fusion TEP/CT + MIP                                       ║
-║                                                              ║
-║  DOCUMENTATION DOSE                                          ║
-║  □ Activité FDG (MBq)                                        ║
-║  □ Heure injection / acquisition                             ║
-║  □ DLP CT (mGy.cm)                                           ║
-║  □ Volume et type PCI                                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 5.3 Arbres Décisionnels
-
-### 5.3.1 Éligibilité Injection PCI
+### 5.2.1 Éligibilité Injection PCI
 
 ```
                     PATIENT ÉLIGIBLE AU PCI ?
@@ -767,7 +583,7 @@ Post-exam : Retrait sonde, surveillance miction
                     préventive   risque
 ```
 
-### 5.3.2 Choix Protocole Vésical
+### 5.2.2 Choix Protocole Vésical
 
 ```
               CANCER GYNÉCOLOGIQUE PELVIEN
