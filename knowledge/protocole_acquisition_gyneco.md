@@ -431,7 +431,6 @@ Post-exam : Retrait sonde, surveillance miction
 ## 4.3 Compte-Rendu, Partie Technique : Éléments à Mentionner
 
 
-- Type d'examen : TEP CT FDG corps entier
 - Activité injectée (MBq) et heure
 - Délai injection-acquisition
 - Injection PCI : type, volume, phase
