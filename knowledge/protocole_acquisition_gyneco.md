@@ -25,16 +25,16 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 
 ## 1.2 Indications
 
-| Localisation | Niveau de preuve TEP FDG | Référence |
-|--------------|--------------------------|-----------|
-| **Col utérin** | Recommandé (staging avancé FIGO IB3-IVB) | PMID 33275178 |
-| **Ovaire** | Recommandé (staging, récidive, pronostic) | PMID 34215923 |
-| **Endomètre** | Utile (pas de guideline spécifique EANM) | EANM v3.0 |
-| **Vulve/Vagin** | Utile (pas de guideline spécifique EANM) | EANM v3.0 |
+| Localisation | Niveau de preuve TEP FDG | Référence TEP | Justification PCI |
+|--------------|--------------------------|---------------|-------------------|
+| **Col utérin** | Recommandé (staging avancé FIGO IB3-IVB) | [EANM/SNMMI Guideline Col Utérin](https://pubmed.ncbi.nlm.nih.gov/33275178/), [Son et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20833849/) | *"The combination of FDG PET with intravenous contrast material-enhanced high-resolution CT has proved useful for [...] increasing the accuracy of staging or restaging"* — [Son et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20833849/) |
+| **Ovaire** | Recommandé (staging, récidive, pronostic) | [EANM Guideline Ovaire](https://pubmed.ncbi.nlm.nih.gov/34215923/) | *"CT [is] considered the best available technique for presurgical evaluation and staging purposes"* — [EANM Guideline Ovaire](https://pubmed.ncbi.nlm.nih.gov/34215923/) ; PCI justifié par bénéfice pelvien ([Antoch et al. 2004](https://pubmed.ncbi.nlm.nih.gov/14736836/)) |
+| **Endomètre** | Utile (pas de guideline spécifique EANM) | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) | Pas de guideline spécifique ; PCI justifié par bénéfice pelvien : *"This benefit must be considered most profound [...] in the abdomen and pelvis"* — [Antoch et al. 2004](https://pubmed.ncbi.nlm.nih.gov/14736836/) |
+| **Vulve/Vagin** | Utile (pas de guideline spécifique EANM) | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) | Pas de guideline spécifique ; PCI justifié par bénéfice pelvien : *"This benefit must be considered most profound [...] in the abdomen and pelvis"* — [Antoch et al. 2004](https://pubmed.ncbi.nlm.nih.gov/14736836/) |
 
 ## 1.3 Bénéfices du CT injecté en pelvien
 
-> "The most important benefit when applying CT contrast agents in PET/CT imaging relates to more precise anatomic localization of pathology [...] This benefit must be considered most profound in the head and neck **as well as the abdomen and pelvis**." (PMID 14736836)
+> [Antoch et al. 2004](https://pubmed.ncbi.nlm.nih.gov/14736836/) — *"The most important benefit when applying CT contrast agents in PET/CT imaging relates to more precise anatomic localization of pathology [...] This benefit must be considered most profound in the head and neck **as well as the abdomen and pelvis**."* — *"CT contrast agents and PET tracers do not compete but rather are complementary in combined PET/CT imaging."*
 
 | Bénéfice | Application gynécologie |
 |----------|------------------------|
@@ -51,7 +51,9 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 
 ### 2.1.1 Éligibilité Contraste Iodé
 
-#### Questionnaire à la prise de RDV (ESUR 2025)
+#### Questionnaire à la prise de RDV ([ESUR 2025](https://www.esur.org/esur-guidelines-2025/))
+
+> **Ressources complémentaires :** Article de synthèse sur les [recommandations EANM v3 pour le TEP FDG](https://lescientifik.github.io/oncopet_academy/docs/guidelines/guidelines-eanm-fdg-petct-v3) et [questionnaire interactif en ligne](https://lescientifik.github.io/oncopet_academy/outils/assistant-tep-fdg) (OncoPET Academy).
 
 **Questions pour déterminer si bilan rénal nécessaire:**
 
@@ -65,8 +67,8 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 | Goutte / hyperuricémie ? | Demander créatinine/eGFR |
 
 **Délai du bilan rénal (si indiqué):**
-- Patient ambulatoire stable : ≤3 mois (ESUR 2025)
-- Patient hospitalisé / maladie aiguë : ≤7 jours (ESUR 2025)
+- Patient ambulatoire stable : ≤3 mois ([ESUR 2025](https://www.esur.org/esur-guidelines-2025/))
+- Patient hospitalisé / maladie aiguë : ≤7 jours ([ESUR 2025](https://www.esur.org/esur-guidelines-2025/))
 
 #### Contre-indications absolues au PCI
 
@@ -79,13 +81,13 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 
 | Situation | Conduite à tenir | Source |
 |-----------|------------------|--------|
-| **eGFR 30-44** | Hydratation préventive (NaCl 0.9% 1 mL/kg/h 3-4h avant et après) | ESUR 2025 |
-| **eGFR <30** | Discussion bénéfice/risque, hydratation, STOP metformine | ESUR 2025 |
-| **Metformine + eGFR >30** | **Continuer normalement** | ESUR 2025 / EANM v3.0 |
-| **Metformine + eGFR <30** | STOP à l'injection, contrôle 48h | ESUR 2025 |
-| **Inhibiteurs SGLT2** | Omission 48h avant/après si préoccupation | EANM v3.0 |
-| **Grossesse** | Discussion bénéfice/risque (TSH néonatal si injection) | ESUR 2025 |
-| **Allaitement** | Pas de contre-indication, poursuite normale | ESUR 2025 |
+| **eGFR 30-44** | Hydratation préventive (NaCl 0.9% 1 mL/kg/h 3-4h avant et après) | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) |
+| **eGFR <30** | Discussion bénéfice/risque, hydratation, STOP metformine | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) |
+| **Metformine + eGFR >30** | **Continuer normalement** | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) / [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
+| **Metformine + eGFR <30** | STOP à l'injection, contrôle 48h | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) |
+| **Inhibiteurs SGLT2** | Omission 48h avant/après si préoccupation | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
+| **Grossesse** | Discussion bénéfice/risque (TSH néonatal si injection) | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) |
+| **Allaitement** | Pas de contre-indication, poursuite normale | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) |
 
 ### 2.1.2 Vérifications Jour J
 
@@ -100,13 +102,13 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 - [ ] **Metformine** : vérifier eGFR si concernée
 - [ ] **SGLT2** : vérifier prise et hydratation
 
-> **Source glycémie:** EANM v3.0 / PMID 33275178 - "blood glucose level should be <11 mmol/L"
+> **Source glycémie:** [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) / [Adam et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33275178/) — *"blood glucose level should be <11 mmol/L"*
 
 ---
 
 ## 2.2 Préparation du Matériel
 
-### 2.2.1 Équipement urgence obligatoire (ESUR 2025)
+### 2.2.1 Équipement urgence obligatoire ([ESUR 2025](https://www.esur.org/esur-guidelines-2025/))
 
 | Matériel | Quantité/Spécification |
 |----------|------------------------|
@@ -122,11 +124,11 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 
 | Élément | Spécification | Source |
 |---------|---------------|--------|
-| Cathéter IV | **20G minimum** (coude idéal) | EANM v3.0 |
-| Injecteur programmable | Recommandé pour PCI | EANM v3.0 |
-| Chauffe-flacon | **37°C** pour PCI | ESUR 2025 |
+| Cathéter IV | **20G minimum** (coude idéal) | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
+| Injecteur programmable | Recommandé pour PCI | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
+| Chauffe-flacon | **37°C** pour PCI | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) |
 | Seringue FDG | Selon activité calculée | - |
-| Perfusion NaCl 0.9% | ~1 L si protocole furosémide | PMID 33275178 |
+| Perfusion NaCl 0.9% | ~1 L si protocole furosémide | [Adam et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33275178/) |
 
 ### 2.2.3 Si protocole furosémide
 
@@ -135,6 +137,8 @@ Ce protocole standardise la réalisation des examens TEP CT FDG avec injection d
 | Furosémide IV | 20-40 mg (0.5 mg/kg) |
 | Sonde Foley | Taille adaptée |
 | Poche de recueil urinaire | Drainage par gravité |
+
+> **Source :** [EANM/SNMMI Guideline Col Utérin](https://pubmed.ncbi.nlm.nih.gov/33275178/) — *"20–40 mg of furosemide [...] with approximately 1 L of an intravenous infusion"*
 
 ---
 
@@ -200,12 +204,24 @@ T+90 min   │ FIN EXAMEN
 
 | Paramètre | Valeur | Source |
 |-----------|--------|--------|
-| **Type** | Iso- ou hypo-osmolaire non ionique | ESUR 2025 |
-| **Débit** | **2.5 mL/s** | EANM v3.0 |
-| **Volume** | Selon protocole local (typiquement 80-120 mL) | - |
-| **Température** | **37°C** (réchauffé) | ESUR 2025 |
-| **Phase** | **Porto-veineuse médiane** | EANM v3.0 |
-| **Délai** | **50-70 secondes** post-injection | EANM v3.0 |
+| **Type** | Iso- ou hypo-osmolaire non ionique | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) — *"Use low- or iso-osmolar contrast media"* |
+| **Charge iodée** | **0.5 gI/kg** à 120 kV ; 0.4 gI/kg à 100 kV | [SFR-CIRTACI Onco](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/) |
+| **Volume** | Adapté au poids : volume = charge iodée × poids / concentration | Ex: 100 mL pour 70 kg avec 350 mgI/mL |
+| **Débit** | **3-5 mL/s** (injection en ~30 s) | [SFR-CIRTACI Onco](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/), [SIAD 2025](https://siad.radiologie.fr/wp-content/uploads/Recommandations-SIAD-agents-de-contraste-en-Scanner.pdf) |
+| **Chasse NaCl** | **30-40 mL** au même débit | [SFR-CIRTACI Onco](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/) |
+| **Température** | Réchauffé | [ESUR 2025](https://www.esur.org/esur-guidelines-2025/) — *"reduces viscosity and may reduce the risk of extravasation"* |
+| **Phase** | **Porto-veineuse** | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) — *"timed to the portovenous phase"* |
+| **Délai** | **70 s** après début injection (CIRTACI) ; **80-90 s** (SIAD 2025) | [SFR-CIRTACI](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/), [SIAD 2025](https://siad.radiologie.fr/wp-content/uploads/Recommandations-SIAD-agents-de-contraste-en-Scanner.pdf) |
+
+> **Synthèse des recommandations françaises :**
+>
+> | Source | Charge iodée | Débit | Délai PV | Année |
+> |--------|-------------|-------|----------|-------|
+> | [SFR-CIRTACI Onco](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/) | 0.5 gI/kg (120 kV) | Volume/30 s | 70 s | 2020 |
+> | [SIAD](https://siad.radiologie.fr/wp-content/uploads/Recommandations-SIAD-agents-de-contraste-en-Scanner.pdf) | ≥0.5 gI/kg (jusqu'à 0.7 pour foie) | 3-5 mL/s | 80-90 s | 2025 |
+> | [RCP Xenetix 350](https://m.base-donnees-publique.medicaments.gouv.fr/rcp-66613769-4) | 1.8 mL/kg (~0.63 gI/kg) | — | — | RCP |
+>
+> Un [calculateur en ligne CIRTACI](https://clairance.radioanatomie.com/PDC/) est disponible pour adapter volume et débit au poids du patient.
 
 **Avant injection:**
 1. Test au NaCl 0.9% (10-20 mL) pour vérifier voie veineuse
@@ -215,10 +231,10 @@ T+90 min   │ FIN EXAMEN
 
 | Recommandation | Source |
 |----------------|--------|
-| **Eau ou agents à base d'eau = PRÉFÉRÉ** | EANM v3.0 |
-| Éviter baryum (plus d'artefacts CT-AC) | EANM v3.0 |
+| **Eau ou agents à base d'eau = PRÉFÉRÉ** | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
+| Éviter baryum (plus d'artefacts CT-AC) | [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
 
-> "Water or water-based contrast agents [...] provide improved image quality with reduced artefacts." (EANM v3.0)
+> "Water or water-based contrast agents [...] provide improved image quality with reduced artefacts." ([EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006))
 
 **Si utilisé:** 500-1000 mL eau 30-60 min avant acquisition
 
@@ -228,7 +244,7 @@ T+90 min   │ FIN EXAMEN
 
 ### 2.4.1 Indication
 
-> **Recommandation EANM/SNMMI (PMID 33275178):** "Diuretics may be used [...] to reduce urinary bladder activity"
+> **Recommandation EANM/SNMMI ([Adam et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33275178/)):** *"Diuretics may be used [...] to reduce urinary bladder activity"*
 
 **Indiqué pour:**
 - Cancer du col utérin (recommandé)
@@ -246,7 +262,7 @@ T+90 min   │ FIN EXAMEN
 | Allergie sulfamides | Réaction croisée |
 | Hypovolémie/déshydratation sévère | Risque hypotension |
 
-> **Attention gynécologie:** Vérifier imagerie récente - compression urétérale possible dans cancer col avancé (PMID 33275178)
+> **Attention gynécologie:** Vérifier imagerie récente - compression urétérale possible dans cancer col avancé ([Adam et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33275178/))
 
 #### Précautions (évaluation cas par cas)
 
@@ -269,16 +285,18 @@ T60       : Vérifier perméabilité sonde
 Post-exam : Retrait sonde, surveillance miction
 ```
 
-> **Source:** PMID 33275178 - "20–40 mg of furosemide [...] with approximately 1 L of an intravenous infusion"
+> **Source:** [Adam et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33275178/) — *"20–40 mg of furosemide [...] with approximately 1 L of an intravenous infusion"*
 
 ---
 
 ## 2.5 Positionnement Patient
 
+> **Source :** [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) — *"If possible, the patient should put their arms above their head (except for dedicated head and neck imaging); proper support devices (e.g. foam pallets) provided by the manufacturers should be employed whenever feasible."*
+
 | Élément | Recommandation |
 |---------|----------------|
 | **Position** | Décubitus dorsal |
-| **Bras** | Relevés au-dessus de la tête (si toléré) |
+| **Bras** | Relevés au-dessus de la tête (si toléré) — [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) |
 | **Membres inférieurs** | Position neutre, légèrement écartés |
 | **Confort** | Coussin sous genoux si besoin |
 | **Immobilisation** | Cale mousse si nécessaire |
@@ -289,7 +307,9 @@ Post-exam : Retrait sonde, surveillance miction
 
 ## 2.6 Gestion des Incidents
 
-### 2.6.1 Extravasation PCI (ESUR 2025)
+> **Outil pratique :** Un [questionnaire interactif](https://lescientifik.github.io/oncopet_academy/outils/assistant-tep-fdg) (OncoPET Academy) est disponible pour guider la vérification pré-examen et la gestion des incidents.
+
+### 2.6.1 Extravasation PCI ([ESUR 2025](https://www.esur.org/esur-guidelines-2025/))
 
 | Sévérité | Signes | Action |
 |----------|--------|--------|
@@ -297,7 +317,7 @@ Post-exam : Retrait sonde, surveillance miction
 | **Modérée** | Gonflement 50-150 mL | Idem + évaluation neurovasculaire |
 | **Sévère** | >150 mL ou signes neurovasculaires | **AVIS CHIRURGICAL URGENT** |
 
-### 2.6.2 Réaction Allergique (ESUR 2025)
+### 2.6.2 Réaction Allergique ([ESUR 2025](https://www.esur.org/esur-guidelines-2025/))
 
 **Réaction légère (urticaire localisée, prurit):**
 - Surveillance
@@ -345,13 +365,14 @@ Post-exam : Retrait sonde, surveillance miction
 
 ## 3.2 Paramètres CT Diagnostique Injecté
 
-| Paramètre | Valeur | Commentaire |
-|-----------|--------|-------------|
-| **kV** | 120 kV (standard) | Adapter poids patient |
-| **mAs** | Selon protocole local | Modulation dose si disponible |
-| **Collimation** | ≤2 mm | Reconstructions fines |
-| **Pitch** | ~1 | Standard |
-| **Respiration** | Inspiration bloquée (thorax) | Expiration douce (abdomen-pelvis) |
+> **Source :** [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) — *"Diagnostic CT scan should be performed according to applicable local or national radiological protocols and guidelines."* Valeurs adaptées de [SFR-CIRTACI Oncologie](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/) (2020) et [SIAD 2025](https://siad.radiologie.fr/wp-content/uploads/Recommandations-SIAD-agents-de-contraste-en-Scanner.pdf).
+
+| Paramètre | Valeur | Source |
+|-----------|--------|--------|
+| **kV** | 120 kV (standard) ; 100 kV si poids ≤80 kg | [SFR-CIRTACI](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/) |
+| **mAs** | Modulation automatique de dose | Selon constructeur |
+| **Collimation** | Selon protocole constructeur | - |
+| **Pitch** | Selon protocole constructeur | - |
 
 
 ---
@@ -359,105 +380,24 @@ Post-exam : Retrait sonde, surveillance miction
 
 ## 3.5 Dose Effective
 
-| Composante | Dose estimée | Source |
-|------------|--------------|--------|
-| **FDG** | ~3 mSv pour 185 MBq | EANM v3.0 |
-| **CT très bas dose** | ~1 mSv | EANM v3.0 |
-| **CT diagnostique injecté** | 10-20 mSv | EANM v3.0 |
-| **TOTAL typique** | 13-23 mSv | - |
+| Composante | Dose estimée |
+|------------|--------------|
+| **FDG** | ~3 mSv pour 185 MBq |
+| **CT très bas dose** | ~1 mSv |
+| **CT diagnostique injecté** | 10-20 mSv |
+| **TOTAL typique** | 13-23 mSv |
 
-> Coefficient FDG : 1.7 × 10⁻² mSv/MBq (EANM v3.0)
+> **Source :** [EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006) — Coefficient FDG : *1.7 × 10⁻² mSv/MBq* ; *"The effective CT dose ranges from 1 to 20 mSv and may be even higher for a static high-resolution diagnostic CT examination."*
 
 ---
 
 # 4. Section Médecin Interprétant
 
+> **Sections 4.1 à 4.4** (pièges diagnostiques, faux positifs/négatifs, interprétation par localisation tumorale) : voir [pieges_interpretation_gyneco.md](pieges_interpretation_gyneco.md).
 
-## 4.1 Pièges et Faux Positifs (PMID 28287942)
+## 4.1 Artefacts liés au Contraste ([EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006))
 
-### 4.1.1 Uptake Physiologique
-
-| Source | Caractéristiques | Différentiation |
-|--------|------------------|-----------------|
-| **Endomètre** | Variable selon cycle (pic ovulatoire/sécrétoire) | Documenter DDR, corrélation IRM |
-| **Ovaires** | Corps jaune fonctionnel | Aspect typique, régression au cycle suivant |
-| **Uretères** | Activité linéaire | Trajet anatomique, NAC |
-| **Vessie** | Intense, variable | Protocole furosémide/miction |
-
-### 4.1.2 Pathologies Bénignes
-
-| Pathologie | Piège | Différentiation |
-|------------|-------|-----------------|
-| **Fibromes utérins** | Uptake variable (surtout si dégénérescence) | Aspect CT typique, IRM |
-| **Endométriose active** | Hypermétabolisme inflammatoire | Contexte clinique, IRM |
-| **PID (infection pelvienne)** | Uptake intense diffus | Clinique, marqueurs inflammatoires |
-| **Kyste fonctionnel hémorragique** | Uptake modéré | Aspect CT liquidien, suivi |
-
----
-
-## 4.2 Pièges et Faux Négatifs (PMID 28287942)
-
-| Situation | Raison | Solution |
-|-----------|--------|----------|
-| **Tumeurs mucineuses** | Faible métabolisme glucidique | Se fier au CT, IRM |
-| **Tumeurs kystiques** | Composante liquidienne non avide | Analyse paroi, nodules muraux |
-| **Petites lésions péritonéales (<1 cm)** | Résolution spatiale limitée | CT injecté, IRM diffusion |
-| **Tumeurs de bas grade** | Métabolisme glucidique moindre | Corrélation histologie |
-| **Lésions nécrotiques** | Centre non viable | Hypermétabolisme périphérique en anneau |
-| **Masquage par vessie/intestin** | Activité physiologique adjacente | Furosémide, acquisition tardive |
-
----
-
-## 4.3 Interprétation par Localisation Tumorale
-
-### 4.3.1 Cancer du Col Utérin (PMID 33275178)
-
-#### Points d'attention staging
-
-| Site | Rechercher | Valeur ajoutée PCI |
-|------|------------|-------------------|
-| **Tumeur primitive** | Extension locale, taille, paramètres | Délimitation vs vessie/rectum |
-| **Paramètres** | Envahissement latéral | Différentiation vaisseaux |
-| **Ganglions pelviens** | Iliaques internes/externes, obturateurs | Localisation anatomique précise |
-| **Ganglions para-aortiques** | Jusqu'aux vaisseaux rénaux | Différentiation ganglion/vaisseau |
-| **Envahissement vésical/rectal** | Contact, envahissement | Rehaussement des parois |
-
-#### Acquisition vessie vide
-
-> "Acquisition should be performed with an **empty bladder**. Patients should void just prior to the [18F]FDG PET/CT." (PMID 33275178)
-
-### 4.3.2 Cancer de l'Ovaire (PMID 34215923)
-
-#### Points d'attention staging
-
-| Site | Rechercher | Valeur ajoutée PCI |
-|------|------------|-------------------|
-| **Masse ovarienne** | Caractérisation (kystique, solide, mixte) | Rehaussement composantes solides |
-| **Carcinose péritonéale** | Nodules, épaississement péritonéal | Différentiation anses intestinales |
-| **Épiploon** | Gâteau épiploïque | Délimitation anatomique |
-| **Coupoles diaphragmatiques** | Implants sous-phréniques | Différentiation ascite/implant |
-| **Ganglions** | Pelviens et rétropéritonéaux | Localisation précise |
-
-> **Limite connue:** Faible sensibilité pour carcinose microscopique (<1 cm) (PMID 34215923)
-
-### 4.3.3 Cancer de l'Endomètre
-
-> **Pas de guideline EANM spécifique.** 
-
-#### Uptake endométrial physiologique
-
-> "Endometrial uptake [...] varies during the menstrual cycle, with peak uptake during the ovulatory and secretory phases." (PMID 28287942)
-
-**Interprétation:** Documenter DDR, prudence en préménopause.
-
-### 4.4.4 Cancer Vulve/Vagin
-
-> **Pas de guideline EANM spécifique.** 
----
-
-## 4.5 Artefacts liés au Contraste (EANM v3.0)
-
-### 4.5.1 Artefacts de Correction d'Atténuation
+### 4.1.1 Artefacts de Correction d'Atténuation
 
 | Situation | Effet | Solution |
 |-----------|-------|----------|
@@ -465,9 +405,9 @@ Post-exam : Retrait sonde, surveillance miction
 | Contraste oral (baryum) | Artefacts intestinaux | Préférer eau/agents hydrosolubles |
 | Implants métalliques | Hyperfixation artéfactuelle | Vérifier NAC |
 
-### 4.5.2 Conduite à tenir
+### 4.1.2 Conduite à tenir
 
-> "Lesions found on AC-PET images should be checked on NAC-PET images if located adjacent to highly attenuating material." (EANM v3.0)
+> "Lesions found on AC-PET images should be checked on NAC-PET images if located adjacent to highly attenuating material." ([EANM v3.0](https://doi.org/10.1016/j.eanmj.2025.100006))
 
 **Pratique:**
 1. Lésion suspecte adjacente à structure hyperatténuante → vérifier NAC
@@ -476,9 +416,9 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 4.6 Quantification : Impact du PCI sur SUV
+## 4.2 Quantification : Impact du PCI sur SUV
 
-> "Administering intravenous or diluted oral contrast media **does not affect visual assessment** of PET/CT in an oncological setting." (PMID 33275178)
+> "Administering intravenous or diluted oral contrast media **does not affect visual assessment** of PET/CT in an oncological setting." — [Adam et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33275178/)
 
 | Aspect | Impact |
 |--------|--------|
@@ -488,7 +428,7 @@ Post-exam : Retrait sonde, surveillance miction
 
 ---
 
-## 4.7 Compte-Rendu, Partie Technique  : Éléments à Mentionner
+## 4.3 Compte-Rendu, Partie Technique : Éléments à Mentionner
 
 
 - Type d'examen : TEP CT FDG corps entier
@@ -531,8 +471,8 @@ Post-exam : Retrait sonde, surveillance miction
 ║  T0→T60  Repos + [FURO] perfusion                            ║
 ║  T58     Miction (si pas sonde)                              ║
 ║  T60     Installation table                                  ║
-║          Injection PCI: ____ mL à 2.5 mL/s                   ║
-║          Délai 50-70 sec → CT                                ║
+║          Injection PCI: ____ mL en 30 sec                    ║
+║          Délai 70 sec → CT                                   ║
 ║          Acquisition TEP                                     ║
 ║                                                              ║
 ║  SURVEILLANCE POST                                           ║
@@ -615,23 +555,33 @@ Post-exam : Retrait sonde, surveillance miction
 
 ## 6.1 Guidelines Principales
 
-1. **Adam JA et al.** EANM/SNMMI practice guideline for [18F]FDG PET/CT external beam radiotherapy treatment planning in uterine cervical cancer v1.0. Eur J Nucl Med Mol Imaging. 2021. **PMID 33275178** - DOI: 10.1093/rpd/ncl141
+1. **Adam JA et al.** [EANM/SNMMI practice guideline for [18F]FDG PET/CT external beam radiotherapy treatment planning in uterine cervical cancer v1.0](https://pubmed.ncbi.nlm.nih.gov/33275178/). Eur J Nucl Med Mol Imaging. 2021.
 
-2. **Delgado Bolton RC et al.** EANM guideline on the role of 2-[18F]FDG PET/CT in diagnosis, staging, prognostic value, therapy assessment and restaging of ovarian cancer. Eur J Nucl Med Mol Imaging. 2021. **PMID 34215923** - DOI: 10.1002/cncr.24000
+2. **Delgado Bolton RC et al.** [EANM guideline on the role of 2-[18F]FDG PET/CT in diagnosis, staging, prognostic value, therapy assessment and restaging of ovarian cancer](https://pubmed.ncbi.nlm.nih.gov/34215923/). Eur J Nucl Med Mol Imaging. 2021.
 
 3. **Boellaard R et al.** [18F]FDG PET/CT: EANM procedure guidelines for tumour imaging: version 3.0. The EANM Journal. 2025. DOI: 10.1016/j.eanmj.2025.100006
 
-4. **ESUR Contrast Media Safety Committee.** Guidelines on Contrast Agents. 2025. https://www.esur.org/esur-guidelines-2025/
+4. **ESUR Contrast Media Safety Committee.** [Guidelines on Contrast Agents. 2025](https://www.esur.org/esur-guidelines-2025/).
+
+5. **SFR-CIRTACI.** [Optimisation des doses de produits de contraste en scanner — Oncologie](https://fnmr.fr/optimisation-des-doses-de-produits-de-contraste-en-scanner-oncologie/). Société Française de Radiologie. 2020.
+
+6. **SIAD.** [Recommandations sur les agents de contraste en scanner](https://siad.radiologie.fr/wp-content/uploads/Recommandations-SIAD-agents-de-contraste-en-Scanner.pdf). Société d'Imagerie Abdominale et Digestive. 2025.
 
 ## 6.2 Articles de Référence
 
-5. **Antoch G et al.** To enhance or not to enhance? 18F-FDG and CT contrast agents in dual-modality 18F-FDG PET/CT. J Nucl Med. 2004. **PMID 14736836**
+7. **Antoch G et al.** [To enhance or not to enhance? 18F-FDG and CT contrast agents in dual-modality 18F-FDG PET/CT](https://pubmed.ncbi.nlm.nih.gov/14736836/). J Nucl Med. 2004.
 
-6. **Lakhani A et al.** FDG PET/CT Pitfalls in Gynecologic and Genitourinary Oncologic Imaging. Radiographics. 2017. **PMID 28287942** - DOI: 10.1148/rg.2017160059
+8. **Son H et al.** [PET/CT evaluation of cervical cancer: spectrum of disease](https://pubmed.ncbi.nlm.nih.gov/20833849/). Radiographics. 2010. DOI: 10.1148/rg.305105709
 
-7. **Tsai SC et al.** Reduction of bladder activity on FDG PET/CT scan: a patient-friendly protocol. Nuklearmedizin. 2015. **PMID 25345433** - DOI: 10.3413/Nukmed-0652-14-03
+9. **Bae KT.** [Intravenous Contrast Medium Administration and Scan Timing at CT: Considerations and Approaches](https://pubmed.ncbi.nlm.nih.gov/20574084/). Radiology. 2010. DOI: 10.1148/radiol.10090908
 
-8. **Rosenkrantz AB et al.** Prospective Pilot Study to Evaluate the Incremental Value of PET Information in Patients With Bladder Cancer Undergoing 18F-FDG Simultaneous PET/MRI. Clin Nucl Med. 2017. **PMID 27775939** - DOI: 10.1097/RLU.0000000000001432
+10. **Lakhani A et al.** [FDG PET/CT Pitfalls in Gynecologic and Genitourinary Oncologic Imaging](https://pubmed.ncbi.nlm.nih.gov/28287942/). Radiographics. 2017. DOI: 10.1148/rg.2017160059
+
+11. **Tsai SC et al.** [Reduction of bladder activity on FDG PET/CT scan: a patient-friendly protocol](https://pubmed.ncbi.nlm.nih.gov/25345433/). Nuklearmedizin. 2015. DOI: 10.3413/Nukmed-0652-14-03
+
+12. **Rosenkrantz AB et al.** [Prospective Pilot Study to Evaluate the Incremental Value of PET Information in Patients With Bladder Cancer Undergoing 18F-FDG Simultaneous PET/MRI](https://pubmed.ncbi.nlm.nih.gov/27775939/). Clin Nucl Med. 2017. DOI: 10.1097/RLU.0000000000001432
+
+13. **Karout L et al.** [International multicenter survey on CT contrast injection protocols (ConRad)](https://pubmed.ncbi.nlm.nih.gov/39181948/). Eur Radiol. 2025.
 
 ---
 
