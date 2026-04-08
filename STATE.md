@@ -2,47 +2,61 @@
 
 ## Session actuelle
 
-**Date** : 2026-01-28
+**Date** : 2026-01-29
+
+### Phase 2 : ORL - Bilan d'extension
 
 ### Travail effectué
-- [x] **Protocole complet rédigé** : `knowledge/protocole_acquisition_gyneco.md`
+- [x] **Revue bibliographique ORL** : `knowledge/orl_pet_ct_contrast_review.md`
+- [x] **Protocole acquisition ORL** : `knowledge/protocole_acquisition_orl.md`
 
-### Contenu du protocole
+### Recherches effectuées
+- Guidelines EHNS-ESMO-ESTRO 2020 (SCC oral/larynx/oropharynx/hypopharynx)
+- Guidelines ESMO nasopharynx 2021, glandes salivaires 2022, sinonasal 2025
+- Recommandations NCCN Head and Neck 2025
+- Études comparatives contrast-enhanced vs non-enhanced PET/CT
 
-#### Section Manipulateur
-- Checklist pré-examen complète (éligibilité PCI, grossesse, glycémie, eGFR)
-- Chronologie détaillée d'injection (FDG, furosémide, PCI)
-- Protocole furosémide avec sonde Foley
-- Gestion incidents (extravasation, réaction allergique)
-- Fiche synthèse opérationnelle
+### Découvertes clés
 
-#### Section Physicien Médical
-- Paramètres d'acquisition TEP (activité, temps/lit, champ)
-- Paramètres CT diagnostique injecté
-- Reconstructions obligatoires (AC + NAC)
-- Documentation dose
-- Fiche synthèse
+**Recommandations guidelines :**
+- Aucune guideline majeure ne recommande explicitement le contrast-enhanced PET/CT
+- Utilisation du PCI laissée à l'appréciation des équipes
 
-#### Section Médecin Interprétant
-- Pièges et faux positifs/négatifs (PMID 28287942)
-- Interprétation par localisation (col, ovaire, endomètre, vulve)
-- Artefacts liés au contraste et conduite à tenir
-- Structure compte-rendu recommandée
+**Études en faveur du PCI :**
+- **PMID 20652890** : "We strongly suggest performing a contrast-enhanced PET/CT" (ganglions kystiques HPV+)
+- **PMID 26122372** : CT injecté plus précis pour l'extension extranodale (92% vs 74% spécificité)
+- **PMID 25892275** : PET/CECT outil le plus fiable pour surveillance post-op cavité buccale
 
-#### Annexes
-- Arbres décisionnels (éligibilité PCI, choix protocole vésical)
-- Toutes les sources citées avec PMID
+**Indications retenues :**
+- Carcinome oropharyngé HPV+ (ganglions kystiques) : **fortement recommandé**
+- Suspicion d'ENE : **recommandé**
+- Stades III-IV sans IRM programmée : **à considérer**
+
+### Fichiers créés
+- `src/1769697071_head_neck_PET_CT_contrast_staging.jsonl` (79 articles)
+- `src/1769697XXX_head_neck_EANM_ESMO_meta_guidelines.jsonl` (87 articles)
+- `src/1769697XXX_contrast_enhanced_PET_CT_head_neck.jsonl` (50 articles)
+- `knowledge/orl_pet_ct_contrast_review.md`
+- `knowledge/protocole_acquisition_orl.md`
 
 ### Prochaines étapes
-- [x] ~~Rédaction protocole opérationnel pour le service~~
-- [ ] Formation équipe sur gestion vésicale
-- [ ] Check-list patient pré-examen (intégrée dans le protocole)
-- [ ] Validation par le chef de service
+- [ ] Validation protocole ORL par le chef de service
+- [ ] Formation équipe sur spécificités ORL (ganglions kystiques, ENE)
 - [ ] Mise en place pilote
 
 ---
 
 ## Historique
+
+### 2026-01-29 - Session 4 : Phase 2 ORL
+- **Objectif** : PCI sur TEP CT pour bilan d'extension cancers ORL
+- Revue systématique de la littérature (216 articles analysés)
+- Identification des études clés sur contrast-enhanced PET/CT en ORL
+- **Création revue bibliographique** : `knowledge/orl_pet_ct_contrast_review.md`
+- **Création protocole ORL** : `knowledge/protocole_acquisition_orl.md`
+- Conclusion : PCI recommandé surtout pour oropharynx HPV+ et suspicion ENE
+
+### 2026-01-28 - Session 3 : Protocole Gynéco Complet
 
 ### 2026-01-28 - Session 3 : Protocole d'Acquisition Complet
 - **Création protocole complet** : `knowledge/protocole_acquisition_gyneco.md`
